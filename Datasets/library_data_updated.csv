@@ -1,0 +1,1001 @@
+Transaction_ID,User_ID,User_Role,Book_ID,Book_Title,Book_Category,Branch_Location,Borrow_Date,Return_Date,Borrow_Duration_Days,Overdue_Status,Renewal_Count,Available_Copies_At_Borrow,Reservation_Status,Month,Year
+TXN_20250001,USR_1031,Research Scholar,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-01-01,2025-02-01,31,0,1,1,No Reservation,Jan 2025,2025
+TXN_20250002,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-01-03,2025-01-18,15,0,0,2,No Reservation,Jan 2025,2025
+TXN_20250003,USR_1030,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Science & Tech Annex,2025-01-03,2025-01-10,7,0,0,1,No Reservation,Jan 2025,2025
+TXN_20250004,USR_1039,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-01-04,2025-01-21,17,0,0,1,No Reservation,Jan 2025,2025
+TXN_20250005,USR_1054,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-01-04,2025-01-13,9,0,1,1,No Reservation,Jan 2025,2025
+TXN_20250006,USR_1080,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-01-06,2025-01-14,8,0,0,2,No Reservation,Jan 2025,2025
+TXN_20250007,USR_1095,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-01-07,2025-01-17,10,0,1,3,No Reservation,Jan 2025,2025
+TXN_20250008,USR_1035,Staff,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-01-10,2025-02-04,25,0,0,2,No Reservation,Jan 2025,2025
+TXN_20250009,USR_1012,Student,BK_302,1984,Fiction & Literature,Management Library,2025-01-10,2025-01-29,19,1,1,0,Reserved,Jan 2025,2025
+TXN_20250010,USR_1076,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Science & Tech Annex,2025-01-11,2025-01-25,14,0,0,4,No Reservation,Jan 2025,2025
+TXN_20250011,USR_1044,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-01-13,2025-02-05,23,1,0,3,No Reservation,Jan 2025,2025
+TXN_20250012,USR_1065,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Science & Tech Annex,2025-01-15,2025-01-30,15,0,1,4,No Reservation,Jan 2025,2025
+TXN_20250013,USR_1061,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-01-15,2025-01-23,8,0,0,5,No Reservation,Jan 2025,2025
+TXN_20250014,USR_1063,Staff,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-01-16,2025-01-24,8,1,0,1,Reserved,Jan 2025,2025
+TXN_20250015,USR_1081,Faculty,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-01-16,2025-02-03,18,0,0,8,No Reservation,Jan 2025,2025
+TXN_20250016,USR_1044,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Management Library,2025-01-16,2025-02-15,30,1,0,1,Reserved,Jan 2025,2025
+TXN_20250017,USR_1026,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-01-16,2025-02-03,18,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250018,USR_1014,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-01-16,2025-02-27,42,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250019,USR_1089,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-01-17,2025-02-04,18,0,2,4,No Reservation,Jan 2025,2025
+TXN_20250020,USR_1028,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-01-17,2025-01-30,13,0,1,4,No Reservation,Jan 2025,2025
+TXN_20250021,USR_1028,Student,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-01-18,2025-02-01,14,0,1,4,No Reservation,Jan 2025,2025
+TXN_20250022,USR_1063,Staff,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-01-19,2025-02-11,23,1,0,1,No Reservation,Jan 2025,2025
+TXN_20250023,USR_1043,Faculty,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-01-19,2025-02-09,21,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250024,USR_1063,Staff,BK_302,1984,Fiction & Literature,Main Campus Library,2025-01-20,2025-02-01,12,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250025,USR_1063,Staff,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2025-01-21,2025-02-05,15,0,0,10,No Reservation,Jan 2025,2025
+TXN_20250026,USR_1044,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-01-22,2025-02-07,16,0,2,8,No Reservation,Jan 2025,2025
+TXN_20250027,USR_1014,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-01-22,2025-02-21,30,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250028,USR_1080,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2025-01-23,2025-01-29,6,0,0,1,No Reservation,Jan 2025,2025
+TXN_20250029,USR_1027,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-01-23,2025-02-05,13,0,1,2,No Reservation,Jan 2025,2025
+TXN_20250030,USR_1038,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-01-24,2025-02-07,14,0,0,4,No Reservation,Jan 2025,2025
+TXN_20250031,USR_1086,Student,BK_402,Steve Jobs,History & Biography,Management Library,2025-01-25,2025-02-10,16,0,1,3,No Reservation,Jan 2025,2025
+TXN_20250032,USR_1086,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Science & Tech Annex,2025-01-26,2025-02-12,17,0,0,1,No Reservation,Jan 2025,2025
+TXN_20250033,USR_1052,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-01-29,2025-02-08,10,0,0,3,No Reservation,Jan 2025,2025
+TXN_20250034,USR_1079,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Science & Tech Annex,2025-02-01,2025-02-17,16,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250035,USR_1063,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-02-01,2025-02-18,17,0,1,3,No Reservation,Feb 2025,2025
+TXN_20250036,USR_1043,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-02-01,2025-02-20,19,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250037,USR_1039,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-02-02,2025-02-13,11,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250038,USR_1014,Faculty,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-02-03,2025-03-17,42,0,1,3,No Reservation,Feb 2025,2025
+TXN_20250039,USR_1039,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-03,2025-02-15,12,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250040,USR_1038,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-02-03,2025-02-17,14,0,1,3,Reserved,Feb 2025,2025
+TXN_20250041,USR_1043,Faculty,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-02-03,2025-02-27,24,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250042,USR_1031,Research Scholar,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-02-03,2025-02-16,13,0,0,2,Reserved,Feb 2025,2025
+TXN_20250043,USR_1080,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-02-03,2025-02-21,18,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250044,USR_1001,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Engineering Branch,2025-02-03,2025-02-23,20,0,1,0,Reserved,Feb 2025,2025
+TXN_20250045,USR_1011,Student,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-02-03,2025-02-11,8,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250046,USR_1063,Staff,BK_402,Steve Jobs,History & Biography,Management Library,2025-02-04,2025-02-18,14,0,0,0,Reserved,Feb 2025,2025
+TXN_20250047,USR_1036,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-02-04,2025-02-14,10,0,1,2,No Reservation,Feb 2025,2025
+TXN_20250048,USR_1078,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-02-04,2025-02-09,5,0,0,0,Reserved,Feb 2025,2025
+TXN_20250049,USR_1031,Research Scholar,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-05,2025-03-06,29,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250050,USR_1078,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-05,2025-02-19,14,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250051,USR_1003,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-02-05,2025-02-15,10,0,0,8,Reserved,Feb 2025,2025
+TXN_20250052,USR_1095,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-05,2025-02-16,11,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250053,USR_1089,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2025-02-05,2025-02-23,18,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250054,USR_1089,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Management Library,2025-02-05,2025-02-10,5,0,1,3,No Reservation,Feb 2025,2025
+TXN_20250055,USR_1009,Faculty,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-02-05,2025-03-15,38,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250056,USR_1086,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Science & Tech Annex,2025-02-05,2025-02-23,18,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250057,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-07,2025-02-20,13,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250058,USR_1043,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-02-07,2025-03-15,36,1,0,1,No Reservation,Feb 2025,2025
+TXN_20250059,USR_1031,Research Scholar,BK_402,Steve Jobs,History & Biography,Management Library,2025-02-07,2025-02-20,13,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250060,USR_1086,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-02-07,2025-02-24,17,0,3,3,No Reservation,Feb 2025,2025
+TXN_20250061,USR_1011,Student,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-02-07,2025-02-21,14,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250062,USR_1078,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Management Library,2025-02-07,2025-02-12,5,0,3,3,No Reservation,Feb 2025,2025
+TXN_20250063,USR_1030,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Management Library,2025-02-07,2025-02-18,11,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250064,USR_1044,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-02-07,2025-03-08,29,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250065,USR_1044,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-02-07,2025-02-22,15,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250066,USR_1079,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-08,2025-03-16,36,0,0,1,Reserved,Feb 2025,2025
+TXN_20250067,USR_1003,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Management Library,2025-02-08,2025-02-26,18,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250068,USR_1081,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Science & Tech Annex,2025-02-08,2025-03-09,29,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250069,USR_1012,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-02-08,2025-03-01,21,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250070,USR_1079,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-02-09,2025-03-07,26,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250071,USR_1086,Student,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2025-02-09,2025-02-16,7,0,3,5,No Reservation,Feb 2025,2025
+TXN_20250072,USR_1069,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-10,2025-02-26,16,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250073,USR_1003,Student,BK_101,Deep Learning with Python,Computer Science & AI,Management Library,2025-02-10,2025-03-02,20,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250074,USR_1031,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-02-10,2025-02-20,10,1,3,2,No Reservation,Feb 2025,2025
+TXN_20250075,USR_1058,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-11,2025-02-23,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250076,USR_1017,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-11,2025-02-23,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250077,USR_1076,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2025-02-11,2025-02-20,9,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250078,USR_1001,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-02-11,2025-03-03,20,1,0,8,No Reservation,Feb 2025,2025
+TXN_20250079,USR_1063,Staff,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-02-11,2025-03-04,21,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250080,USR_1048,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-02-12,2025-02-27,15,0,2,2,No Reservation,Feb 2025,2025
+TXN_20250081,USR_1027,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-02-12,2025-03-02,18,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250082,USR_1057,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-02-12,2025-02-17,5,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250083,USR_1079,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-02-12,2025-03-08,24,0,0,8,No Reservation,Feb 2025,2025
+TXN_20250084,USR_1063,Staff,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-02-12,2025-02-22,10,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250085,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-02-13,2025-02-27,14,1,0,2,No Reservation,Feb 2025,2025
+TXN_20250086,USR_1063,Staff,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-02-13,2025-02-25,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250087,USR_1043,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-02-14,2025-03-01,15,0,1,1,No Reservation,Feb 2025,2025
+TXN_20250088,USR_1036,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-02-14,2025-02-28,14,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250089,USR_1012,Student,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-02-14,2025-02-24,10,0,1,3,No Reservation,Feb 2025,2025
+TXN_20250090,USR_1002,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Science & Tech Annex,2025-02-15,2025-03-02,15,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250091,USR_1039,Student,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2025-02-15,2025-02-20,5,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250092,USR_1058,Student,BK_501,The Intelligent Investor,Business & Economics,Management Library,2025-02-16,2025-02-23,7,0,0,5,No Reservation,Feb 2025,2025
+TXN_20250093,USR_1031,Research Scholar,BK_405,Churchill: A Life,History & Biography,Management Library,2025-02-16,2025-03-19,31,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250094,USR_1047,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-02-16,2025-03-15,27,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250095,USR_1063,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-02-16,2025-03-05,17,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250096,USR_1006,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-02-16,2025-03-01,13,0,0,4,Reserved,Feb 2025,2025
+TXN_20250097,USR_1063,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-02-17,2025-03-12,23,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250098,USR_1078,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-02-17,2025-03-09,20,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250099,USR_1069,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-02-17,2025-02-24,7,1,0,2,No Reservation,Feb 2025,2025
+TXN_20250100,USR_1009,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Science & Tech Annex,2025-02-18,2025-03-07,17,0,0,2,Reserved,Feb 2025,2025
+TXN_20250101,USR_1035,Staff,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-02-18,2025-03-11,21,1,2,10,Reserved,Feb 2025,2025
+TXN_20250102,USR_1043,Faculty,BK_601,University Physics with Modern Physics,Science & Engineering,Science & Tech Annex,2025-02-18,2025-03-11,21,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250103,USR_1036,Student,BK_501,The Intelligent Investor,Business & Economics,Engineering Branch,2025-02-18,2025-03-06,16,0,0,1,Reserved,Feb 2025,2025
+TXN_20250104,USR_1024,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-18,2025-03-03,13,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250105,USR_1081,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-02-19,2025-03-20,29,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250106,USR_1086,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-02-19,2025-03-03,12,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250107,USR_1011,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-02-19,2025-03-03,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250108,USR_1028,Student,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-02-19,2025-02-26,7,0,2,1,No Reservation,Feb 2025,2025
+TXN_20250109,USR_1001,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-02-19,2025-03-11,20,0,0,3,No Reservation,Feb 2025,2025
+TXN_20250110,USR_1044,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-02-20,2025-03-23,31,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250111,USR_1074,Student,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-02-20,2025-02-25,5,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250112,USR_1036,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-02-20,2025-03-10,18,1,0,4,No Reservation,Feb 2025,2025
+TXN_20250113,USR_1030,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2025-02-20,2025-03-13,21,0,1,2,Reserved,Feb 2025,2025
+TXN_20250114,USR_1038,Research Scholar,BK_404,The Silk Roads: A New History of the World,History & Biography,Science & Tech Annex,2025-02-20,2025-03-07,15,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250115,USR_1039,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-02-21,2025-03-05,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250116,USR_1087,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-02-21,2025-02-28,7,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250117,USR_1001,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-02-21,2025-02-28,7,1,0,4,No Reservation,Feb 2025,2025
+TXN_20250118,USR_1029,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-21,2025-03-28,35,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250119,USR_1001,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-02-22,2025-03-05,11,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250120,USR_1044,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-02-22,2025-03-07,13,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250121,USR_1070,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Management Library,2025-02-22,2025-03-31,37,1,0,1,Reserved,Feb 2025,2025
+TXN_20250122,USR_1076,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-22,2025-03-05,11,0,1,2,No Reservation,Feb 2025,2025
+TXN_20250123,USR_1086,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-02-23,2025-03-11,16,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250124,USR_1033,Student,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-02-23,2025-03-14,19,0,2,2,No Reservation,Feb 2025,2025
+TXN_20250125,USR_1044,Research Scholar,BK_301,To Kill a Mockingbird,Fiction & Literature,Engineering Branch,2025-02-23,2025-03-16,21,0,0,1,Reserved,Feb 2025,2025
+TXN_20250126,USR_1076,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-02-23,2025-03-01,6,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250127,USR_1065,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-02-23,2025-03-01,6,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250128,USR_1031,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-02-24,2025-03-08,12,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250129,USR_1063,Staff,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-02-25,2025-03-23,26,0,0,1,Reserved,Feb 2025,2025
+TXN_20250130,USR_1080,Student,BK_503,Atomic Habits,Business & Economics,Management Library,2025-02-25,2025-03-03,6,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250131,USR_1009,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-02-26,2025-03-22,24,0,3,2,No Reservation,Feb 2025,2025
+TXN_20250132,USR_1063,Staff,BK_305,Dune,Fiction & Literature,Management Library,2025-02-26,2025-03-23,25,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250133,USR_1031,Research Scholar,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-02-26,2025-03-28,30,0,2,3,No Reservation,Feb 2025,2025
+TXN_20250134,USR_1031,Research Scholar,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2025-02-26,2025-03-28,30,0,0,8,No Reservation,Feb 2025,2025
+TXN_20250135,USR_1081,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-02-27,2025-03-20,21,1,1,1,No Reservation,Feb 2025,2025
+TXN_20250136,USR_1031,Research Scholar,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-02-27,2025-03-25,26,0,0,0,Reserved,Feb 2025,2025
+TXN_20250137,USR_1089,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Management Library,2025-02-27,2025-03-14,15,0,0,2,No Reservation,Feb 2025,2025
+TXN_20250138,USR_1063,Staff,BK_601,University Physics with Modern Physics,Science & Engineering,Engineering Branch,2025-02-27,2025-03-18,19,0,2,5,No Reservation,Feb 2025,2025
+TXN_20250139,USR_1052,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-02-27,2025-03-18,19,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250140,USR_1095,Student,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-02-27,2025-03-07,8,0,1,1,No Reservation,Feb 2025,2025
+TXN_20250141,USR_1028,Student,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-02-28,2025-03-13,13,0,0,1,No Reservation,Feb 2025,2025
+TXN_20250142,USR_1009,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-02-28,2025-03-31,31,0,1,4,No Reservation,Feb 2025,2025
+TXN_20250143,USR_1009,Faculty,BK_603,Calculus: Early Transcendentals,Science & Engineering,Engineering Branch,2025-02-28,2025-03-28,28,0,1,1,No Reservation,Feb 2025,2025
+TXN_20250144,USR_1081,Faculty,BK_504,"Thinking, Fast and Slow",Business & Economics,Science & Tech Annex,2025-02-28,2025-03-22,22,1,2,4,No Reservation,Feb 2025,2025
+TXN_20250145,USR_1065,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-02-28,2025-03-12,12,0,0,4,No Reservation,Feb 2025,2025
+TXN_20250146,USR_1063,Staff,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-03-01,2025-03-20,19,0,0,2,No Reservation,Mar 2025,2025
+TXN_20250147,USR_1069,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-03-01,2025-03-17,16,0,1,8,No Reservation,Mar 2025,2025
+TXN_20250148,USR_1066,Faculty,BK_504,"Thinking, Fast and Slow",Business & Economics,Management Library,2025-03-02,2025-03-19,17,1,1,1,No Reservation,Mar 2025,2025
+TXN_20250149,USR_1009,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-03-02,2025-04-03,32,0,1,0,Reserved,Mar 2025,2025
+TXN_20250150,USR_1038,Research Scholar,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-03-03,2025-04-06,34,0,0,2,No Reservation,Mar 2025,2025
+TXN_20250151,USR_1036,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-03-04,2025-03-21,17,0,2,3,No Reservation,Mar 2025,2025
+TXN_20250152,USR_1043,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Science & Tech Annex,2025-03-04,2025-03-18,14,0,3,3,No Reservation,Mar 2025,2025
+TXN_20250153,USR_1053,Student,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-03-06,2025-03-12,6,0,0,1,Reserved,Mar 2025,2025
+TXN_20250154,USR_1009,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-03-06,2025-03-29,23,0,1,1,Reserved,Mar 2025,2025
+TXN_20250155,USR_1086,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-03-07,2025-03-22,15,1,0,2,No Reservation,Mar 2025,2025
+TXN_20250156,USR_1054,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Engineering Branch,2025-03-07,2025-03-17,10,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250157,USR_1035,Staff,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-03-08,2025-03-30,22,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250158,USR_1095,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-03-08,2025-03-24,16,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250159,USR_1030,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2025-03-08,2025-03-20,12,0,0,4,No Reservation,Mar 2025,2025
+TXN_20250160,USR_1028,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-03-08,2025-03-23,15,0,0,0,Reserved,Mar 2025,2025
+TXN_20250161,USR_1091,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-03-09,2025-03-15,6,0,1,2,No Reservation,Mar 2025,2025
+TXN_20250162,USR_1038,Research Scholar,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Engineering Branch,2025-03-09,2025-04-07,29,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250163,USR_1057,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-03-10,2025-03-26,16,0,0,8,No Reservation,Mar 2025,2025
+TXN_20250164,USR_1001,Student,BK_503,Atomic Habits,Business & Economics,Science & Tech Annex,2025-03-11,2025-03-29,18,0,1,4,No Reservation,Mar 2025,2025
+TXN_20250165,USR_1051,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-03-11,2025-04-21,41,0,0,5,No Reservation,Mar 2025,2025
+TXN_20250166,USR_1012,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-03-13,2025-04-03,21,0,1,4,No Reservation,Mar 2025,2025
+TXN_20250167,USR_1031,Research Scholar,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-03-13,2025-04-07,25,0,0,3,Reserved,Mar 2025,2025
+TXN_20250168,USR_1030,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-03-14,2025-03-30,16,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250169,USR_1024,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-03-14,2025-03-30,16,1,1,3,No Reservation,Mar 2025,2025
+TXN_20250170,USR_1031,Research Scholar,BK_603,Calculus: Early Transcendentals,Science & Engineering,Management Library,2025-03-15,2025-04-17,33,1,1,4,No Reservation,Mar 2025,2025
+TXN_20250171,USR_1086,Student,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-03-15,2025-03-23,8,0,0,2,No Reservation,Mar 2025,2025
+TXN_20250172,USR_1069,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-03-15,2025-03-27,12,0,1,3,No Reservation,Mar 2025,2025
+TXN_20250173,USR_1081,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-03-17,2025-04-17,31,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250174,USR_1009,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2025-03-18,2025-04-24,37,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250175,USR_1035,Staff,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-03-18,2025-04-05,18,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250176,USR_1031,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Engineering Branch,2025-03-18,2025-04-18,31,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250177,USR_1015,Staff,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-03-19,2025-04-15,27,0,1,0,Reserved,Mar 2025,2025
+TXN_20250178,USR_1079,Faculty,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-03-19,2025-04-04,16,0,0,4,Reserved,Mar 2025,2025
+TXN_20250179,USR_1004,Student,BK_603,Calculus: Early Transcendentals,Science & Engineering,Engineering Branch,2025-03-19,2025-04-09,21,0,0,2,Reserved,Mar 2025,2025
+TXN_20250180,USR_1027,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-03-20,2025-04-06,17,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250181,USR_1043,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-03-20,2025-04-13,24,0,0,0,Reserved,Mar 2025,2025
+TXN_20250182,USR_1087,Student,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-03-20,2025-04-07,18,0,1,4,No Reservation,Mar 2025,2025
+TXN_20250183,USR_1001,Student,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-03-21,2025-03-31,10,0,0,0,Reserved,Mar 2025,2025
+TXN_20250184,USR_1069,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-03-21,2025-03-30,9,0,2,4,No Reservation,Mar 2025,2025
+TXN_20250185,USR_1030,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-03-21,2025-04-06,16,0,1,3,No Reservation,Mar 2025,2025
+TXN_20250186,USR_1047,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-03-22,2025-04-27,36,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250187,USR_1010,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Science & Tech Annex,2025-03-22,2025-04-05,14,0,1,2,No Reservation,Mar 2025,2025
+TXN_20250188,USR_1061,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-03-23,2025-04-13,21,0,1,2,No Reservation,Mar 2025,2025
+TXN_20250189,USR_1031,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-03-23,2025-04-07,15,0,2,0,Reserved,Mar 2025,2025
+TXN_20250190,USR_1047,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-03-23,2025-04-10,18,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250191,USR_1074,Student,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-03-23,2025-04-09,17,0,0,3,No Reservation,Mar 2025,2025
+TXN_20250192,USR_1087,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-03-24,2025-03-31,7,1,0,3,Reserved,Mar 2025,2025
+TXN_20250193,USR_1058,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-03-24,2025-04-06,13,0,0,3,Reserved,Mar 2025,2025
+TXN_20250194,USR_1009,Faculty,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-03-25,2025-04-08,14,0,0,2,No Reservation,Mar 2025,2025
+TXN_20250195,USR_1038,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-03-25,2025-04-27,33,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250196,USR_1030,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-03-26,2025-04-07,12,0,0,5,Reserved,Mar 2025,2025
+TXN_20250197,USR_1070,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-03-27,2025-04-26,30,0,0,4,No Reservation,Mar 2025,2025
+TXN_20250198,USR_1074,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-03-28,2025-04-10,13,0,0,2,No Reservation,Mar 2025,2025
+TXN_20250199,USR_1055,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Science & Tech Annex,2025-03-31,2025-04-11,11,1,1,3,No Reservation,Mar 2025,2025
+TXN_20250200,USR_1043,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-03-31,2025-05-14,44,0,0,1,No Reservation,Mar 2025,2025
+TXN_20250201,USR_1020,Student,BK_302,1984,Fiction & Literature,Science & Tech Annex,2025-03-31,2025-04-05,5,1,2,0,Reserved,Mar 2025,2025
+TXN_20250202,USR_1031,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-04-01,2025-04-11,10,0,1,1,Reserved,Apr 2025,2025
+TXN_20250203,USR_1044,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-04-01,2025-04-12,11,0,0,4,Reserved,Apr 2025,2025
+TXN_20250204,USR_1048,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-04-01,2025-04-14,13,0,1,4,No Reservation,Apr 2025,2025
+TXN_20250205,USR_1003,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-04-01,2025-04-20,19,0,0,1,Reserved,Apr 2025,2025
+TXN_20250206,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-04-01,2025-04-17,16,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250207,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-04-02,2025-04-22,20,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250208,USR_1054,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-04-02,2025-04-07,5,1,3,4,No Reservation,Apr 2025,2025
+TXN_20250209,USR_1056,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Science & Tech Annex,2025-04-02,2025-04-15,13,0,0,0,Reserved,Apr 2025,2025
+TXN_20250210,USR_1043,Faculty,BK_501,The Intelligent Investor,Business & Economics,Management Library,2025-04-03,2025-04-22,19,0,0,0,Reserved,Apr 2025,2025
+TXN_20250211,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-04-03,2025-04-28,25,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250212,USR_1054,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-04-03,2025-04-19,16,0,0,1,Reserved,Apr 2025,2025
+TXN_20250213,USR_1076,Student,BK_402,Steve Jobs,History & Biography,Management Library,2025-04-03,2025-04-15,12,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250214,USR_1031,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-04-04,2025-04-27,23,0,0,0,Reserved,Apr 2025,2025
+TXN_20250215,USR_1030,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-04-04,2025-04-23,19,0,0,0,Reserved,Apr 2025,2025
+TXN_20250216,USR_1030,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-04-04,2025-04-21,17,0,0,5,No Reservation,Apr 2025,2025
+TXN_20250217,USR_1041,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-04-04,2025-04-11,7,0,0,5,No Reservation,Apr 2025,2025
+TXN_20250218,USR_1081,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2025-04-04,2025-04-29,25,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250219,USR_1027,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-04-05,2025-04-24,19,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250220,USR_1089,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-04-05,2025-04-14,9,0,0,5,No Reservation,Apr 2025,2025
+TXN_20250221,USR_1018,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-04-05,2025-05-11,36,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250222,USR_1044,Research Scholar,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-04-06,2025-04-21,15,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250223,USR_1047,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-04-06,2025-04-24,18,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250224,USR_1012,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2025-04-06,2025-04-20,14,1,0,2,No Reservation,Apr 2025,2025
+TXN_20250225,USR_1017,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-04-06,2025-04-25,19,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250226,USR_1056,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-04-07,2025-04-23,16,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250227,USR_1069,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-04-07,2025-04-13,6,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250228,USR_1029,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-04-09,2025-05-18,39,1,0,0,Reserved,Apr 2025,2025
+TXN_20250229,USR_1009,Faculty,BK_602,Linear Algebra and Its Applications,Science & Engineering,Engineering Branch,2025-04-09,2025-05-17,38,0,1,1,No Reservation,Apr 2025,2025
+TXN_20250230,USR_1027,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-04-10,2025-04-26,16,0,2,0,Reserved,Apr 2025,2025
+TXN_20250231,USR_1030,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-04-10,2025-04-27,17,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250232,USR_1030,Student,BK_605,Signals and Systems,Science & Engineering,Engineering Branch,2025-04-10,2025-04-23,13,0,0,5,No Reservation,Apr 2025,2025
+TXN_20250233,USR_1012,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-04-11,2025-05-01,20,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250234,USR_1079,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-04-12,2025-04-28,16,0,1,4,Reserved,Apr 2025,2025
+TXN_20250235,USR_1001,Student,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-04-12,2025-04-19,7,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250236,USR_1063,Staff,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-04-13,2025-04-23,10,0,1,1,Reserved,Apr 2025,2025
+TXN_20250237,USR_1063,Staff,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-04-13,2025-05-03,20,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250238,USR_1028,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-04-13,2025-04-18,5,0,0,3,Reserved,Apr 2025,2025
+TXN_20250239,USR_1012,Student,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-04-14,2025-05-01,17,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250240,USR_1036,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-04-14,2025-04-24,10,0,0,0,Reserved,Apr 2025,2025
+TXN_20250241,USR_1011,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-04-14,2025-04-24,10,0,0,2,Reserved,Apr 2025,2025
+TXN_20250242,USR_1001,Student,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2025-04-15,2025-04-26,11,0,1,1,No Reservation,Apr 2025,2025
+TXN_20250243,USR_1088,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2025-04-15,2025-04-26,11,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250244,USR_1001,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-04-15,2025-05-04,19,0,2,2,No Reservation,Apr 2025,2025
+TXN_20250245,USR_1001,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-04-15,2025-04-25,10,1,1,4,No Reservation,Apr 2025,2025
+TXN_20250246,USR_1011,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-04-15,2025-05-01,16,0,1,3,No Reservation,Apr 2025,2025
+TXN_20250247,USR_1063,Staff,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-04-16,2025-04-26,10,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250248,USR_1079,Faculty,BK_602,Linear Algebra and Its Applications,Science & Engineering,Main Campus Library,2025-04-16,2025-05-23,37,0,0,5,Reserved,Apr 2025,2025
+TXN_20250249,USR_1079,Faculty,BK_503,Atomic Habits,Business & Economics,Engineering Branch,2025-04-16,2025-05-29,43,1,0,3,No Reservation,Apr 2025,2025
+TXN_20250250,USR_1009,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-04-16,2025-05-06,20,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250251,USR_1055,Student,BK_502,Zero to One,Business & Economics,Science & Tech Annex,2025-04-16,2025-04-21,5,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250252,USR_1047,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-04-16,2025-05-28,42,1,0,3,No Reservation,Apr 2025,2025
+TXN_20250253,USR_1074,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Management Library,2025-04-16,2025-05-03,17,0,0,1,Reserved,Apr 2025,2025
+TXN_20250254,USR_1066,Faculty,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-04-16,2025-05-17,31,0,2,1,No Reservation,Apr 2025,2025
+TXN_20250255,USR_1036,Student,BK_604,Microelectronic Circuits,Science & Engineering,Engineering Branch,2025-04-17,2025-05-02,15,1,3,2,No Reservation,Apr 2025,2025
+TXN_20250256,USR_1043,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-04-17,2025-05-13,26,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250257,USR_1030,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-04-17,2025-05-02,15,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250258,USR_1057,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-04-17,2025-04-27,10,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250259,USR_1063,Staff,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-04-17,2025-05-06,19,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250260,USR_1043,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-04-18,2025-05-26,38,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250261,USR_1086,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2025-04-18,2025-05-03,15,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250262,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-04-18,2025-05-12,24,0,0,1,Reserved,Apr 2025,2025
+TXN_20250263,USR_1069,Student,BK_305,Dune,Fiction & Literature,Science & Tech Annex,2025-04-19,2025-05-01,12,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250264,USR_1031,Research Scholar,BK_302,1984,Fiction & Literature,Main Campus Library,2025-04-19,2025-05-19,30,0,0,4,Reserved,Apr 2025,2025
+TXN_20250265,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-04-19,2025-05-11,22,0,0,3,Reserved,Apr 2025,2025
+TXN_20250266,USR_1029,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-04-19,2025-05-29,40,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250267,USR_1090,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-04-20,2025-05-18,28,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250268,USR_1031,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2025-04-20,2025-05-11,21,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250269,USR_1065,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-04-20,2025-04-30,10,0,1,8,No Reservation,Apr 2025,2025
+TXN_20250270,USR_1001,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-04-20,2025-05-07,17,1,1,2,No Reservation,Apr 2025,2025
+TXN_20250271,USR_1024,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Science & Tech Annex,2025-04-21,2025-05-06,15,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250272,USR_1003,Student,BK_604,Microelectronic Circuits,Science & Engineering,Science & Tech Annex,2025-04-21,2025-04-28,7,0,0,0,Reserved,Apr 2025,2025
+TXN_20250273,USR_1030,Student,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2025-04-21,2025-05-12,21,0,0,3,Reserved,Apr 2025,2025
+TXN_20250274,USR_1028,Student,BK_305,Dune,Fiction & Literature,Science & Tech Annex,2025-04-21,2025-05-05,14,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250275,USR_1009,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-04-21,2025-05-26,35,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250276,USR_1043,Faculty,BK_302,1984,Fiction & Literature,Main Campus Library,2025-04-21,2025-06-03,43,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250277,USR_1024,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-04-21,2025-05-01,10,0,2,2,No Reservation,Apr 2025,2025
+TXN_20250278,USR_1081,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-04-22,2025-05-17,25,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250279,USR_1077,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-04-22,2025-06-01,40,1,1,3,No Reservation,Apr 2025,2025
+TXN_20250280,USR_1076,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2025-04-22,2025-05-04,12,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250281,USR_1043,Faculty,BK_302,1984,Fiction & Literature,Main Campus Library,2025-04-23,2025-05-24,31,0,0,0,Reserved,Apr 2025,2025
+TXN_20250282,USR_1081,Faculty,BK_302,1984,Fiction & Literature,Engineering Branch,2025-04-23,2025-05-09,16,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250283,USR_1028,Student,BK_302,1984,Fiction & Literature,Science & Tech Annex,2025-04-23,2025-05-08,15,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250284,USR_1030,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-04-24,2025-05-05,11,0,1,3,No Reservation,Apr 2025,2025
+TXN_20250285,USR_1031,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-04-25,2025-05-18,23,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250286,USR_1080,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-04-25,2025-05-06,11,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250287,USR_1030,Student,BK_305,Dune,Fiction & Literature,Management Library,2025-04-25,2025-05-07,12,0,2,0,Reserved,Apr 2025,2025
+TXN_20250288,USR_1043,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-04-25,2025-05-16,21,0,0,8,No Reservation,Apr 2025,2025
+TXN_20250289,USR_1047,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-04-25,2025-05-26,31,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250290,USR_1043,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-04-25,2025-05-19,24,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250291,USR_1063,Staff,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Science & Tech Annex,2025-04-25,2025-05-04,9,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250292,USR_1035,Staff,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-04-26,2025-05-08,12,0,1,0,Reserved,Apr 2025,2025
+TXN_20250293,USR_1057,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-04-26,2025-05-15,19,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250294,USR_1065,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-04-26,2025-05-16,20,0,0,4,Reserved,Apr 2025,2025
+TXN_20250295,USR_1086,Student,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-04-26,2025-05-08,12,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250296,USR_1029,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2025-04-26,2025-05-15,19,1,0,0,Reserved,Apr 2025,2025
+TXN_20250297,USR_1012,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-04-27,2025-05-04,7,0,2,1,No Reservation,Apr 2025,2025
+TXN_20250298,USR_1095,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-04-27,2025-05-14,17,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250299,USR_1043,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-04-27,2025-06-10,44,0,1,0,Reserved,Apr 2025,2025
+TXN_20250300,USR_1089,Student,BK_603,Calculus: Early Transcendentals,Science & Engineering,Engineering Branch,2025-04-27,2025-05-02,5,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250301,USR_1086,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Engineering Branch,2025-04-27,2025-05-14,17,0,0,8,No Reservation,Apr 2025,2025
+TXN_20250302,USR_1038,Research Scholar,BK_502,Zero to One,Business & Economics,Science & Tech Annex,2025-04-27,2025-05-14,17,0,0,1,No Reservation,Apr 2025,2025
+TXN_20250303,USR_1036,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-04-28,2025-05-09,11,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250304,USR_1039,Student,BK_305,Dune,Fiction & Literature,Management Library,2025-04-28,2025-05-09,11,0,3,2,No Reservation,Apr 2025,2025
+TXN_20250305,USR_1043,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-04-28,2025-06-08,41,1,0,2,No Reservation,Apr 2025,2025
+TXN_20250306,USR_1058,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-04-28,2025-05-08,10,0,0,3,No Reservation,Apr 2025,2025
+TXN_20250307,USR_1030,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-04-28,2025-05-18,20,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250308,USR_1093,Faculty,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-04-28,2025-05-18,20,0,1,2,No Reservation,Apr 2025,2025
+TXN_20250309,USR_1008,Research Scholar,BK_306,The Catcher in the Rye,Fiction & Literature,Management Library,2025-04-28,2025-05-18,20,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250310,USR_1014,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-04-28,2025-05-16,18,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250311,USR_1058,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-04-29,2025-05-08,9,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250312,USR_1080,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-04-29,2025-05-04,5,0,0,4,No Reservation,Apr 2025,2025
+TXN_20250313,USR_1095,Student,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-04-30,2025-05-20,20,0,0,5,No Reservation,Apr 2025,2025
+TXN_20250314,USR_1043,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-04-30,2025-05-20,20,0,0,2,No Reservation,Apr 2025,2025
+TXN_20250315,USR_1081,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-05-01,2025-06-14,44,0,0,1,No Reservation,May 2025,2025
+TXN_20250316,USR_1063,Staff,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-05-02,2025-05-18,16,1,1,3,No Reservation,May 2025,2025
+TXN_20250317,USR_1027,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-05-02,2025-05-17,15,0,3,2,No Reservation,May 2025,2025
+TXN_20250318,USR_1086,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-05-04,2025-05-13,9,0,0,3,No Reservation,May 2025,2025
+TXN_20250319,USR_1011,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-05-05,2025-05-21,16,0,0,1,No Reservation,May 2025,2025
+TXN_20250320,USR_1038,Research Scholar,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-05-05,2025-05-21,16,0,0,3,No Reservation,May 2025,2025
+TXN_20250321,USR_1074,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-05-05,2025-05-13,8,0,0,1,No Reservation,May 2025,2025
+TXN_20250322,USR_1063,Staff,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-05-05,2025-05-15,10,0,0,0,Reserved,May 2025,2025
+TXN_20250323,USR_1081,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-05-10,2025-06-07,28,0,1,4,No Reservation,May 2025,2025
+TXN_20250324,USR_1024,Student,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-05-12,2025-05-30,18,0,0,0,Reserved,May 2025,2025
+TXN_20250325,USR_1053,Student,BK_604,Microelectronic Circuits,Science & Engineering,Engineering Branch,2025-05-14,2025-06-03,20,0,1,1,No Reservation,May 2025,2025
+TXN_20250326,USR_1031,Research Scholar,BK_601,University Physics with Modern Physics,Science & Engineering,Management Library,2025-05-16,2025-05-28,12,0,0,8,Reserved,May 2025,2025
+TXN_20250327,USR_1031,Research Scholar,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-05-16,2025-05-31,15,0,0,2,No Reservation,May 2025,2025
+TXN_20250328,USR_1036,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Science & Tech Annex,2025-05-17,2025-05-29,12,0,1,1,No Reservation,May 2025,2025
+TXN_20250329,USR_1089,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-05-17,2025-06-03,17,0,0,3,No Reservation,May 2025,2025
+TXN_20250330,USR_1076,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Management Library,2025-05-17,2025-06-06,20,0,1,2,No Reservation,May 2025,2025
+TXN_20250331,USR_1043,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-05-17,2025-06-04,18,0,2,3,No Reservation,May 2025,2025
+TXN_20250332,USR_1038,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-05-19,2025-06-13,25,0,0,2,No Reservation,May 2025,2025
+TXN_20250333,USR_1048,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-05-19,2025-06-09,21,0,2,1,Reserved,May 2025,2025
+TXN_20250334,USR_1043,Faculty,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-05-22,2025-07-01,40,0,0,1,No Reservation,May 2025,2025
+TXN_20250335,USR_1031,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-05-24,2025-06-04,11,0,0,0,Reserved,May 2025,2025
+TXN_20250336,USR_1078,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Engineering Branch,2025-05-24,2025-05-30,6,0,0,3,Reserved,May 2025,2025
+TXN_20250337,USR_1069,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-05-24,2025-06-13,20,0,0,3,No Reservation,May 2025,2025
+TXN_20250338,USR_1031,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-05-25,2025-06-23,29,0,1,0,Reserved,May 2025,2025
+TXN_20250339,USR_1043,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-05-25,2025-07-04,40,1,2,2,No Reservation,May 2025,2025
+TXN_20250340,USR_1038,Research Scholar,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-05-25,2025-06-16,22,0,0,0,Reserved,May 2025,2025
+TXN_20250341,USR_1063,Staff,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-05-26,2025-06-15,20,0,0,5,No Reservation,May 2025,2025
+TXN_20250342,USR_1044,Research Scholar,BK_503,Atomic Habits,Business & Economics,Management Library,2025-05-27,2025-06-07,11,0,0,10,Reserved,May 2025,2025
+TXN_20250343,USR_1092,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-05-28,2025-06-18,21,0,0,4,Reserved,May 2025,2025
+TXN_20250344,USR_1078,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-05-29,2025-06-07,9,0,1,2,No Reservation,May 2025,2025
+TXN_20250345,USR_1036,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-05-30,2025-06-12,13,0,1,1,No Reservation,May 2025,2025
+TXN_20250346,USR_1031,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-05-30,2025-06-14,15,0,0,2,No Reservation,May 2025,2025
+TXN_20250347,USR_1063,Staff,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2025-06-01,2025-06-27,26,1,0,2,No Reservation,Jun 2025,2025
+TXN_20250348,USR_1043,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-06-02,2025-06-20,18,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250349,USR_1038,Research Scholar,BK_302,1984,Fiction & Literature,Engineering Branch,2025-06-04,2025-06-20,16,0,2,2,No Reservation,Jun 2025,2025
+TXN_20250350,USR_1074,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-06-05,2025-06-19,14,0,1,8,No Reservation,Jun 2025,2025
+TXN_20250351,USR_1079,Faculty,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-06-05,2025-06-30,25,0,1,0,Reserved,Jun 2025,2025
+TXN_20250352,USR_1076,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-06-05,2025-06-25,20,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250353,USR_1056,Student,BK_305,Dune,Fiction & Literature,Management Library,2025-06-05,2025-06-17,12,0,0,1,No Reservation,Jun 2025,2025
+TXN_20250354,USR_1031,Research Scholar,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-06-05,2025-07-05,30,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250355,USR_1076,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-06-06,2025-06-24,18,1,0,1,No Reservation,Jun 2025,2025
+TXN_20250356,USR_1035,Staff,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-06-08,2025-06-17,9,0,0,10,No Reservation,Jun 2025,2025
+TXN_20250357,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-06-08,2025-06-18,10,0,3,8,No Reservation,Jun 2025,2025
+TXN_20250358,USR_1031,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-06-08,2025-06-20,12,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250359,USR_1069,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Science & Tech Annex,2025-06-09,2025-06-14,5,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250360,USR_1089,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-06-09,2025-06-21,12,0,1,0,Reserved,Jun 2025,2025
+TXN_20250361,USR_1011,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-06-09,2025-06-20,11,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250362,USR_1063,Staff,BK_604,Microelectronic Circuits,Science & Engineering,Management Library,2025-06-10,2025-06-22,12,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250363,USR_1070,Faculty,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-06-10,2025-07-19,39,0,0,5,No Reservation,Jun 2025,2025
+TXN_20250364,USR_1043,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-06-10,2025-07-11,31,0,0,8,No Reservation,Jun 2025,2025
+TXN_20250365,USR_1063,Staff,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-06-10,2025-06-25,15,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250366,USR_1044,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-06-11,2025-07-05,24,0,3,4,Reserved,Jun 2025,2025
+TXN_20250367,USR_1043,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-06-13,2025-07-12,29,0,0,0,Reserved,Jun 2025,2025
+TXN_20250368,USR_1001,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-06-13,2025-06-28,15,0,0,1,No Reservation,Jun 2025,2025
+TXN_20250369,USR_1060,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-06-14,2025-07-05,21,0,0,5,No Reservation,Jun 2025,2025
+TXN_20250370,USR_1038,Research Scholar,BK_305,Dune,Fiction & Literature,Management Library,2025-06-14,2025-07-18,34,0,0,2,No Reservation,Jun 2025,2025
+TXN_20250371,USR_1070,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-06-14,2025-07-21,37,0,1,1,No Reservation,Jun 2025,2025
+TXN_20250372,USR_1036,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Main Campus Library,2025-06-15,2025-07-06,21,0,0,2,No Reservation,Jun 2025,2025
+TXN_20250373,USR_1020,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-06-16,2025-06-25,9,0,0,0,Reserved,Jun 2025,2025
+TXN_20250374,USR_1029,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-06-16,2025-07-01,15,1,0,1,No Reservation,Jun 2025,2025
+TXN_20250375,USR_1079,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-06-16,2025-07-04,18,0,2,2,Reserved,Jun 2025,2025
+TXN_20250376,USR_1038,Research Scholar,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-06-16,2025-07-05,19,0,0,5,No Reservation,Jun 2025,2025
+TXN_20250377,USR_1063,Staff,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-06-17,2025-07-09,22,0,0,1,No Reservation,Jun 2025,2025
+TXN_20250378,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Management Library,2025-06-17,2025-06-26,9,0,1,1,No Reservation,Jun 2025,2025
+TXN_20250379,USR_1035,Staff,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-06-17,2025-06-25,8,0,0,2,No Reservation,Jun 2025,2025
+TXN_20250380,USR_1047,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-06-19,2025-07-08,19,0,2,2,No Reservation,Jun 2025,2025
+TXN_20250381,USR_1048,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-06-20,2025-07-04,14,0,1,2,No Reservation,Jun 2025,2025
+TXN_20250382,USR_1012,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-06-20,2025-06-29,9,0,1,5,No Reservation,Jun 2025,2025
+TXN_20250383,USR_1010,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-06-22,2025-07-12,20,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250384,USR_1014,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-06-22,2025-07-23,31,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250385,USR_1035,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-06-23,2025-07-20,27,1,0,0,Reserved,Jun 2025,2025
+TXN_20250386,USR_1053,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-06-24,2025-07-06,12,0,2,2,No Reservation,Jun 2025,2025
+TXN_20250387,USR_1036,Student,BK_402,Steve Jobs,History & Biography,Engineering Branch,2025-06-24,2025-07-03,9,0,1,0,Reserved,Jun 2025,2025
+TXN_20250388,USR_1073,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-06-24,2025-07-21,27,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250389,USR_1072,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-06-26,2025-08-04,39,0,0,3,No Reservation,Jun 2025,2025
+TXN_20250390,USR_1075,Faculty,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2025-06-26,2025-07-17,21,1,0,3,No Reservation,Jun 2025,2025
+TXN_20250391,USR_1036,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-06-26,2025-07-02,6,0,0,2,No Reservation,Jun 2025,2025
+TXN_20250392,USR_1018,Faculty,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-06-26,2025-07-17,21,0,0,3,Reserved,Jun 2025,2025
+TXN_20250393,USR_1044,Research Scholar,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-06-26,2025-07-10,14,0,2,2,Reserved,Jun 2025,2025
+TXN_20250394,USR_1057,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-06-27,2025-07-17,20,0,0,1,No Reservation,Jun 2025,2025
+TXN_20250395,USR_1012,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-06-28,2025-07-08,10,0,0,5,No Reservation,Jun 2025,2025
+TXN_20250396,USR_1055,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-06-28,2025-07-17,19,1,0,0,Reserved,Jun 2025,2025
+TXN_20250397,USR_1028,Student,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-06-28,2025-07-19,21,0,0,2,No Reservation,Jun 2025,2025
+TXN_20250398,USR_1031,Research Scholar,BK_402,Steve Jobs,History & Biography,Management Library,2025-06-29,2025-07-19,20,0,0,2,Reserved,Jun 2025,2025
+TXN_20250399,USR_1024,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-06-29,2025-07-20,21,0,0,4,No Reservation,Jun 2025,2025
+TXN_20250400,USR_1030,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-06-29,2025-07-19,20,0,0,0,Reserved,Jun 2025,2025
+TXN_20250401,USR_1012,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-06-30,2025-07-18,18,1,2,0,Reserved,Jun 2025,2025
+TXN_20250402,USR_1028,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-06-30,2025-07-11,11,0,0,0,Reserved,Jun 2025,2025
+TXN_20250403,USR_1056,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-07-03,2025-07-12,9,0,0,5,No Reservation,Jul 2025,2025
+TXN_20250404,USR_1029,Faculty,BK_402,Steve Jobs,History & Biography,Science & Tech Annex,2025-07-03,2025-08-04,32,0,0,4,No Reservation,Jul 2025,2025
+TXN_20250405,USR_1036,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-07-04,2025-07-21,17,0,1,3,No Reservation,Jul 2025,2025
+TXN_20250406,USR_1024,Student,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-07-05,2025-07-14,9,0,1,5,No Reservation,Jul 2025,2025
+TXN_20250407,USR_1031,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-07-05,2025-07-29,24,0,0,5,No Reservation,Jul 2025,2025
+TXN_20250408,USR_1087,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Management Library,2025-07-05,2025-07-14,9,0,0,2,No Reservation,Jul 2025,2025
+TXN_20250409,USR_1061,Student,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-07-05,2025-07-19,14,1,0,0,Reserved,Jul 2025,2025
+TXN_20250410,USR_1043,Faculty,BK_503,Atomic Habits,Business & Economics,Science & Tech Annex,2025-07-06,2025-07-21,15,0,0,1,No Reservation,Jul 2025,2025
+TXN_20250411,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-07-06,2025-07-18,12,0,1,1,Reserved,Jul 2025,2025
+TXN_20250412,USR_1036,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-07-06,2025-07-17,11,0,0,3,No Reservation,Jul 2025,2025
+TXN_20250413,USR_1069,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-07-09,2025-07-16,7,0,0,2,Reserved,Jul 2025,2025
+TXN_20250414,USR_1069,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-07-10,2025-07-18,8,0,0,1,No Reservation,Jul 2025,2025
+TXN_20250415,USR_1027,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-07-11,2025-07-26,15,0,0,2,No Reservation,Jul 2025,2025
+TXN_20250416,USR_1063,Staff,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-07-11,2025-08-06,26,0,1,8,No Reservation,Jul 2025,2025
+TXN_20250417,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-07-12,2025-07-30,18,0,0,3,No Reservation,Jul 2025,2025
+TXN_20250418,USR_1058,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-07-12,2025-07-29,17,1,0,1,No Reservation,Jul 2025,2025
+TXN_20250419,USR_1086,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-07-12,2025-07-19,7,0,1,4,No Reservation,Jul 2025,2025
+TXN_20250420,USR_1039,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-07-13,2025-07-21,8,0,0,2,Reserved,Jul 2025,2025
+TXN_20250421,USR_1063,Staff,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-07-14,2025-08-07,24,0,2,1,No Reservation,Jul 2025,2025
+TXN_20250422,USR_1030,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-07-14,2025-07-30,16,0,0,4,No Reservation,Jul 2025,2025
+TXN_20250423,USR_1027,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-07-16,2025-07-27,11,0,0,2,No Reservation,Jul 2025,2025
+TXN_20250424,USR_1034,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-07-17,2025-07-26,9,1,0,3,No Reservation,Jul 2025,2025
+TXN_20250425,USR_1028,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-07-18,2025-08-07,20,0,0,2,Reserved,Jul 2025,2025
+TXN_20250426,USR_1036,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-07-18,2025-08-01,14,0,0,1,No Reservation,Jul 2025,2025
+TXN_20250427,USR_1054,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-07-18,2025-08-02,15,0,3,1,No Reservation,Jul 2025,2025
+TXN_20250428,USR_1038,Research Scholar,BK_303,The Great Gatsby,Fiction & Literature,Engineering Branch,2025-07-19,2025-08-17,29,0,1,4,No Reservation,Jul 2025,2025
+TXN_20250429,USR_1054,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-07-19,2025-07-31,12,1,3,2,No Reservation,Jul 2025,2025
+TXN_20250430,USR_1039,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Main Campus Library,2025-07-20,2025-07-26,6,0,0,4,No Reservation,Jul 2025,2025
+TXN_20250431,USR_1044,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-07-21,2025-08-16,26,0,0,1,No Reservation,Jul 2025,2025
+TXN_20250432,USR_1038,Research Scholar,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2025-07-21,2025-08-20,30,0,0,5,Reserved,Jul 2025,2025
+TXN_20250433,USR_1063,Staff,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Science & Tech Annex,2025-07-22,2025-08-17,26,0,1,3,No Reservation,Jul 2025,2025
+TXN_20250434,USR_1030,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-07-22,2025-07-31,9,0,2,1,No Reservation,Jul 2025,2025
+TXN_20250435,USR_1086,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-07-22,2025-08-10,19,1,0,3,No Reservation,Jul 2025,2025
+TXN_20250436,USR_1066,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-07-23,2025-09-02,41,1,0,1,No Reservation,Jul 2025,2025
+TXN_20250437,USR_1039,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-07-24,2025-08-02,9,0,0,4,No Reservation,Jul 2025,2025
+TXN_20250438,USR_1043,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2025-07-26,2025-09-03,39,0,1,8,No Reservation,Jul 2025,2025
+TXN_20250439,USR_1080,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-07-27,2025-08-02,6,0,0,5,No Reservation,Jul 2025,2025
+TXN_20250440,USR_1076,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-07-29,2025-08-18,20,0,0,5,No Reservation,Jul 2025,2025
+TXN_20250441,USR_1063,Staff,BK_301,To Kill a Mockingbird,Fiction & Literature,Management Library,2025-07-30,2025-08-26,27,0,1,1,No Reservation,Jul 2025,2025
+TXN_20250442,USR_1012,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-07-30,2025-08-11,12,0,0,4,No Reservation,Jul 2025,2025
+TXN_20250443,USR_1095,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-07-31,2025-08-14,14,0,2,0,Reserved,Jul 2025,2025
+TXN_20250444,USR_1080,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-08-01,2025-08-16,15,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250445,USR_1033,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-08-01,2025-08-06,5,1,0,3,No Reservation,Aug 2025,2025
+TXN_20250446,USR_1031,Research Scholar,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-08-03,2025-08-16,13,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250447,USR_1074,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-08-03,2025-08-16,13,0,2,2,No Reservation,Aug 2025,2025
+TXN_20250448,USR_1009,Faculty,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-08-03,2025-08-27,24,0,0,0,Reserved,Aug 2025,2025
+TXN_20250449,USR_1089,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-08-04,2025-08-11,7,0,3,0,Reserved,Aug 2025,2025
+TXN_20250450,USR_1065,Student,BK_503,Atomic Habits,Business & Economics,Engineering Branch,2025-08-04,2025-08-14,10,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250451,USR_1002,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-08-05,2025-08-17,12,0,2,8,No Reservation,Aug 2025,2025
+TXN_20250452,USR_1054,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Engineering Branch,2025-08-05,2025-08-20,15,0,0,3,Reserved,Aug 2025,2025
+TXN_20250453,USR_1024,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-08-06,2025-08-11,5,0,2,1,No Reservation,Aug 2025,2025
+TXN_20250454,USR_1087,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-08-07,2025-08-18,11,0,0,2,No Reservation,Aug 2025,2025
+TXN_20250455,USR_1080,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-08-08,2025-08-14,6,1,0,4,No Reservation,Aug 2025,2025
+TXN_20250456,USR_1063,Staff,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2025-08-09,2025-08-23,14,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250457,USR_1018,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2025-08-09,2025-08-26,17,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250458,USR_1028,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-08-10,2025-08-29,19,0,1,1,No Reservation,Aug 2025,2025
+TXN_20250459,USR_1008,Research Scholar,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-08-10,2025-08-28,18,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250460,USR_1079,Faculty,BK_601,University Physics with Modern Physics,Science & Engineering,Management Library,2025-08-10,2025-08-31,21,0,0,0,Reserved,Aug 2025,2025
+TXN_20250461,USR_1036,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Science & Tech Annex,2025-08-12,2025-09-01,20,1,0,3,No Reservation,Aug 2025,2025
+TXN_20250462,USR_1058,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-08-12,2025-08-23,11,0,0,8,No Reservation,Aug 2025,2025
+TXN_20250463,USR_1047,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-08-12,2025-09-02,21,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250464,USR_1017,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-08-12,2025-08-23,11,1,0,2,Reserved,Aug 2025,2025
+TXN_20250465,USR_1009,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-08-12,2025-08-28,16,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250466,USR_1058,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-08-13,2025-08-18,5,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250467,USR_1073,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-08-14,2025-09-23,40,1,0,2,No Reservation,Aug 2025,2025
+TXN_20250468,USR_1027,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-08-14,2025-09-02,19,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250469,USR_1031,Research Scholar,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-08-15,2025-09-06,22,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250470,USR_1070,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Management Library,2025-08-15,2025-08-31,16,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250471,USR_1057,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-08-15,2025-08-21,6,0,0,5,No Reservation,Aug 2025,2025
+TXN_20250472,USR_1039,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Engineering Branch,2025-08-16,2025-09-03,18,0,1,1,No Reservation,Aug 2025,2025
+TXN_20250473,USR_1081,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-08-16,2025-09-02,17,0,1,0,Reserved,Aug 2025,2025
+TXN_20250474,USR_1074,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-08-17,2025-09-05,19,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250475,USR_1031,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-08-18,2025-08-29,11,0,0,2,No Reservation,Aug 2025,2025
+TXN_20250476,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-08-19,2025-08-25,6,0,1,1,Reserved,Aug 2025,2025
+TXN_20250477,USR_1044,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-08-20,2025-09-20,31,0,0,0,Reserved,Aug 2025,2025
+TXN_20250478,USR_1038,Research Scholar,BK_602,Linear Algebra and Its Applications,Science & Engineering,Science & Tech Annex,2025-08-20,2025-09-02,13,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250479,USR_1046,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-08-20,2025-09-09,20,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250480,USR_1019,Faculty,BK_302,1984,Fiction & Literature,Main Campus Library,2025-08-21,2025-09-26,36,0,1,2,No Reservation,Aug 2025,2025
+TXN_20250481,USR_1009,Faculty,BK_402,Steve Jobs,History & Biography,Engineering Branch,2025-08-22,2025-09-13,22,0,1,4,No Reservation,Aug 2025,2025
+TXN_20250482,USR_1080,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-08-22,2025-08-29,7,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250483,USR_1087,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-08-22,2025-09-02,11,0,0,4,No Reservation,Aug 2025,2025
+TXN_20250484,USR_1031,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-08-22,2025-09-04,13,0,0,2,No Reservation,Aug 2025,2025
+TXN_20250485,USR_1016,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-08-23,2025-09-04,12,0,1,2,No Reservation,Aug 2025,2025
+TXN_20250486,USR_1027,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-08-25,2025-09-06,12,0,0,0,Reserved,Aug 2025,2025
+TXN_20250487,USR_1074,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-08-26,2025-09-12,17,0,0,1,No Reservation,Aug 2025,2025
+TXN_20250488,USR_1065,Student,BK_603,Calculus: Early Transcendentals,Science & Engineering,Main Campus Library,2025-08-27,2025-09-11,15,0,0,5,No Reservation,Aug 2025,2025
+TXN_20250489,USR_1009,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-08-28,2025-10-10,43,0,0,3,No Reservation,Aug 2025,2025
+TXN_20250490,USR_1043,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-08-28,2025-10-04,37,0,1,1,Reserved,Aug 2025,2025
+TXN_20250491,USR_1009,Faculty,BK_605,Signals and Systems,Science & Engineering,Main Campus Library,2025-08-28,2025-10-03,36,0,0,8,No Reservation,Aug 2025,2025
+TXN_20250492,USR_1003,Student,BK_302,1984,Fiction & Literature,Science & Tech Annex,2025-08-28,2025-09-06,9,0,0,8,No Reservation,Aug 2025,2025
+TXN_20250493,USR_1076,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2025-08-28,2025-09-14,17,0,2,2,Reserved,Aug 2025,2025
+TXN_20250494,USR_1012,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-08-29,2025-09-13,15,0,2,3,No Reservation,Aug 2025,2025
+TXN_20250495,USR_1009,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-08-29,2025-10-06,38,1,0,0,Reserved,Aug 2025,2025
+TXN_20250496,USR_1036,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Management Library,2025-08-31,2025-09-18,18,0,0,2,No Reservation,Aug 2025,2025
+TXN_20250497,USR_1076,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Science & Tech Annex,2025-09-01,2025-09-07,6,0,0,3,No Reservation,Sep 2025,2025
+TXN_20250498,USR_1079,Faculty,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-09-02,2025-10-05,33,0,0,4,No Reservation,Sep 2025,2025
+TXN_20250499,USR_1024,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Science & Tech Annex,2025-09-03,2025-09-24,21,1,0,2,No Reservation,Sep 2025,2025
+TXN_20250500,USR_1044,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-09-04,2025-09-24,20,0,0,1,No Reservation,Sep 2025,2025
+TXN_20250501,USR_1063,Staff,BK_605,Signals and Systems,Science & Engineering,Main Campus Library,2025-09-04,2025-09-18,14,0,0,10,No Reservation,Sep 2025,2025
+TXN_20250502,USR_1027,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-09-04,2025-09-21,17,0,0,8,No Reservation,Sep 2025,2025
+TXN_20250503,USR_1022,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-09-05,2025-09-17,12,0,0,2,No Reservation,Sep 2025,2025
+TXN_20250504,USR_1071,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-09-06,2025-10-03,27,0,3,1,Reserved,Sep 2025,2025
+TXN_20250505,USR_1027,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Main Campus Library,2025-09-07,2025-09-17,10,0,1,1,No Reservation,Sep 2025,2025
+TXN_20250506,USR_1030,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-09-12,2025-10-02,20,0,1,2,No Reservation,Sep 2025,2025
+TXN_20250507,USR_1009,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Science & Tech Annex,2025-09-13,2025-10-25,42,0,0,0,Reserved,Sep 2025,2025
+TXN_20250508,USR_1063,Staff,BK_501,The Intelligent Investor,Business & Economics,Engineering Branch,2025-09-14,2025-10-05,21,0,1,3,No Reservation,Sep 2025,2025
+TXN_20250509,USR_1038,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-09-14,2025-09-28,14,0,1,8,No Reservation,Sep 2025,2025
+TXN_20250510,USR_1043,Faculty,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-09-14,2025-10-15,31,0,2,3,No Reservation,Sep 2025,2025
+TXN_20250511,USR_1031,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-09-15,2025-10-13,28,0,2,5,Reserved,Sep 2025,2025
+TXN_20250512,USR_1079,Faculty,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-09-15,2025-10-08,23,0,0,1,Reserved,Sep 2025,2025
+TXN_20250513,USR_1014,Faculty,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-09-17,2025-10-19,32,0,0,2,No Reservation,Sep 2025,2025
+TXN_20250514,USR_1074,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-09-17,2025-10-01,14,1,1,2,No Reservation,Sep 2025,2025
+TXN_20250515,USR_1079,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-09-18,2025-10-24,36,0,0,2,Reserved,Sep 2025,2025
+TXN_20250516,USR_1086,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-09-18,2025-10-05,17,0,1,2,No Reservation,Sep 2025,2025
+TXN_20250517,USR_1044,Research Scholar,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-09-19,2025-10-05,16,0,0,5,No Reservation,Sep 2025,2025
+TXN_20250518,USR_1027,Student,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-09-20,2025-09-27,7,0,1,4,No Reservation,Sep 2025,2025
+TXN_20250519,USR_1080,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Science & Tech Annex,2025-09-21,2025-10-11,20,0,1,3,No Reservation,Sep 2025,2025
+TXN_20250520,USR_1057,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-09-22,2025-10-04,12,0,1,5,No Reservation,Sep 2025,2025
+TXN_20250521,USR_1018,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-09-23,2025-10-16,23,0,0,0,Reserved,Sep 2025,2025
+TXN_20250522,USR_1036,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-09-23,2025-10-14,21,0,2,8,No Reservation,Sep 2025,2025
+TXN_20250523,USR_1038,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-09-23,2025-10-03,10,0,0,0,Reserved,Sep 2025,2025
+TXN_20250524,USR_1036,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-09-24,2025-10-05,11,0,0,0,Reserved,Sep 2025,2025
+TXN_20250525,USR_1080,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-09-24,2025-10-10,16,0,0,8,No Reservation,Sep 2025,2025
+TXN_20250526,USR_1031,Research Scholar,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-09-24,2025-10-14,20,0,0,3,No Reservation,Sep 2025,2025
+TXN_20250527,USR_1009,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-09-25,2025-10-23,28,0,0,1,No Reservation,Sep 2025,2025
+TXN_20250528,USR_1089,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-09-26,2025-10-03,7,0,0,5,No Reservation,Sep 2025,2025
+TXN_20250529,USR_1001,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-09-26,2025-10-10,14,0,2,4,No Reservation,Sep 2025,2025
+TXN_20250530,USR_1009,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-09-26,2025-10-27,31,0,0,2,No Reservation,Sep 2025,2025
+TXN_20250531,USR_1031,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-09-29,2025-10-31,32,0,0,1,No Reservation,Sep 2025,2025
+TXN_20250532,USR_1057,Student,BK_605,Signals and Systems,Science & Engineering,Engineering Branch,2025-09-29,2025-10-06,7,0,3,2,No Reservation,Sep 2025,2025
+TXN_20250533,USR_1095,Student,BK_501,The Intelligent Investor,Business & Economics,Engineering Branch,2025-09-30,2025-10-06,6,0,3,4,No Reservation,Sep 2025,2025
+TXN_20250534,USR_1080,Student,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-10-01,2025-10-15,14,0,0,0,Reserved,Oct 2025,2025
+TXN_20250535,USR_1027,Student,BK_402,Steve Jobs,History & Biography,Engineering Branch,2025-10-01,2025-10-20,19,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250536,USR_1086,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-10-01,2025-10-11,10,0,1,5,No Reservation,Oct 2025,2025
+TXN_20250537,USR_1036,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Science & Tech Annex,2025-10-02,2025-10-23,21,0,3,4,No Reservation,Oct 2025,2025
+TXN_20250538,USR_1044,Research Scholar,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-10-02,2025-11-02,31,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250539,USR_1051,Faculty,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-10-02,2025-10-24,22,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250540,USR_1056,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-10-03,2025-10-09,6,0,0,0,Reserved,Oct 2025,2025
+TXN_20250541,USR_1087,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Management Library,2025-10-04,2025-10-18,14,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250542,USR_1079,Faculty,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-10-04,2025-11-17,44,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250543,USR_1063,Staff,BK_601,University Physics with Modern Physics,Science & Engineering,Engineering Branch,2025-10-04,2025-10-22,18,0,1,1,No Reservation,Oct 2025,2025
+TXN_20250544,USR_1074,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Management Library,2025-10-04,2025-10-12,8,0,0,8,No Reservation,Oct 2025,2025
+TXN_20250545,USR_1057,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-10-04,2025-10-09,5,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250546,USR_1031,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2025-10-04,2025-10-30,26,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250547,USR_1001,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-10-04,2025-10-10,6,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250548,USR_1038,Research Scholar,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2025-10-05,2025-10-31,26,0,0,2,Reserved,Oct 2025,2025
+TXN_20250549,USR_1079,Faculty,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-10-05,2025-10-21,16,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250550,USR_1011,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-10-06,2025-10-17,11,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250551,USR_1012,Student,BK_502,Zero to One,Business & Economics,Science & Tech Annex,2025-10-06,2025-10-12,6,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250552,USR_1076,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-10-06,2025-10-21,15,0,1,3,No Reservation,Oct 2025,2025
+TXN_20250553,USR_1027,Student,BK_305,Dune,Fiction & Literature,Management Library,2025-10-06,2025-10-15,9,1,1,3,No Reservation,Oct 2025,2025
+TXN_20250554,USR_1001,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2025-10-06,2025-10-19,13,0,1,1,No Reservation,Oct 2025,2025
+TXN_20250555,USR_1031,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-10-07,2025-11-05,29,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250556,USR_1036,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Science & Tech Annex,2025-10-07,2025-10-18,11,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250557,USR_1063,Staff,BK_402,Steve Jobs,History & Biography,Science & Tech Annex,2025-10-07,2025-10-24,17,0,0,0,Reserved,Oct 2025,2025
+TXN_20250558,USR_1040,Staff,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-10-07,2025-10-21,14,0,1,3,Reserved,Oct 2025,2025
+TXN_20250559,USR_1089,Student,BK_304,Pride and Prejudice,Fiction & Literature,Science & Tech Annex,2025-10-08,2025-10-25,17,0,0,2,Reserved,Oct 2025,2025
+TXN_20250560,USR_1011,Student,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-10-08,2025-10-28,20,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250561,USR_1028,Student,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-10-08,2025-10-15,7,0,1,2,No Reservation,Oct 2025,2025
+TXN_20250562,USR_1057,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-10-09,2025-10-19,10,0,0,3,Reserved,Oct 2025,2025
+TXN_20250563,USR_1063,Staff,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-10-09,2025-10-21,12,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250564,USR_1009,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-09,2025-11-19,41,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250565,USR_1063,Staff,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-10-10,2025-10-29,19,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250566,USR_1063,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-10,2025-10-20,10,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250567,USR_1079,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-10-10,2025-11-04,25,0,2,3,No Reservation,Oct 2025,2025
+TXN_20250568,USR_1063,Staff,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-10-10,2025-10-24,14,0,1,4,No Reservation,Oct 2025,2025
+TXN_20250569,USR_1087,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-10-10,2025-10-25,15,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250570,USR_1024,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Management Library,2025-10-10,2025-10-29,19,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250571,USR_1024,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2025-10-10,2025-10-29,19,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250572,USR_1029,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-10-11,2025-11-07,27,0,0,2,Reserved,Oct 2025,2025
+TXN_20250573,USR_1044,Research Scholar,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-10-11,2025-11-04,24,0,1,2,No Reservation,Oct 2025,2025
+TXN_20250574,USR_1009,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2025-10-11,2025-11-11,31,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250575,USR_1030,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-10-12,2025-10-26,14,0,0,8,No Reservation,Oct 2025,2025
+TXN_20250576,USR_1076,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-10-12,2025-10-25,13,0,0,3,Reserved,Oct 2025,2025
+TXN_20250577,USR_1028,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-10-12,2025-11-02,21,0,0,3,Reserved,Oct 2025,2025
+TXN_20250578,USR_1060,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-10-12,2025-10-21,9,0,0,1,Reserved,Oct 2025,2025
+TXN_20250579,USR_1011,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-10-12,2025-10-27,15,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250580,USR_1024,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-10-13,2025-10-26,13,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250581,USR_1024,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2025-10-13,2025-10-31,18,0,1,3,No Reservation,Oct 2025,2025
+TXN_20250582,USR_1081,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Science & Tech Annex,2025-10-14,2025-11-11,28,0,0,0,Reserved,Oct 2025,2025
+TXN_20250583,USR_1001,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2025-10-14,2025-10-24,10,0,2,3,No Reservation,Oct 2025,2025
+TXN_20250584,USR_1047,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-10-14,2025-11-14,31,0,0,10,No Reservation,Oct 2025,2025
+TXN_20250585,USR_1043,Faculty,BK_603,Calculus: Early Transcendentals,Science & Engineering,Management Library,2025-10-14,2025-11-05,22,0,1,3,Reserved,Oct 2025,2025
+TXN_20250586,USR_1010,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-10-14,2025-10-22,8,1,0,3,Reserved,Oct 2025,2025
+TXN_20250587,USR_1047,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-10-15,2025-10-31,16,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250588,USR_1014,Faculty,BK_601,University Physics with Modern Physics,Science & Engineering,Engineering Branch,2025-10-15,2025-11-28,44,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250589,USR_1001,Student,BK_305,Dune,Fiction & Literature,Management Library,2025-10-15,2025-10-24,9,0,0,0,Reserved,Oct 2025,2025
+TXN_20250590,USR_1036,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-10-17,2025-11-01,15,1,1,5,No Reservation,Oct 2025,2025
+TXN_20250591,USR_1036,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Management Library,2025-10-17,2025-11-01,15,0,3,1,No Reservation,Oct 2025,2025
+TXN_20250592,USR_1031,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-10-17,2025-10-31,14,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250593,USR_1024,Student,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-10-17,2025-11-06,20,0,0,0,Reserved,Oct 2025,2025
+TXN_20250594,USR_1063,Staff,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-10-17,2025-11-11,25,0,1,2,No Reservation,Oct 2025,2025
+TXN_20250595,USR_1087,Student,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-10-18,2025-11-03,16,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250596,USR_1079,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-10-18,2025-12-01,44,0,0,4,Reserved,Oct 2025,2025
+TXN_20250597,USR_1038,Research Scholar,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-10-18,2025-11-18,31,0,0,2,Reserved,Oct 2025,2025
+TXN_20250598,USR_1070,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-10-18,2025-11-21,34,1,2,2,No Reservation,Oct 2025,2025
+TXN_20250599,USR_1017,Student,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2025-10-18,2025-10-30,12,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250600,USR_1087,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-19,2025-10-29,10,1,0,1,No Reservation,Oct 2025,2025
+TXN_20250601,USR_1043,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-19,2025-11-25,37,0,2,2,No Reservation,Oct 2025,2025
+TXN_20250602,USR_1044,Research Scholar,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-10-19,2025-11-17,29,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250603,USR_1089,Student,BK_502,Zero to One,Business & Economics,Engineering Branch,2025-10-19,2025-10-27,8,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250604,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-10-20,2025-11-09,20,0,2,1,No Reservation,Oct 2025,2025
+TXN_20250605,USR_1043,Faculty,BK_301,To Kill a Mockingbird,Fiction & Literature,Engineering Branch,2025-10-20,2025-11-27,38,1,1,4,Reserved,Oct 2025,2025
+TXN_20250606,USR_1017,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-10-20,2025-11-09,20,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250607,USR_1044,Research Scholar,BK_301,To Kill a Mockingbird,Fiction & Literature,Management Library,2025-10-20,2025-11-07,18,0,1,2,No Reservation,Oct 2025,2025
+TXN_20250608,USR_1009,Faculty,BK_405,Churchill: A Life,History & Biography,Management Library,2025-10-20,2025-11-06,17,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250609,USR_1081,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-10-20,2025-11-08,19,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250610,USR_1065,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-21,2025-11-04,14,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250611,USR_1002,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Engineering Branch,2025-10-21,2025-11-03,13,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250612,USR_1030,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-10-21,2025-11-07,17,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250613,USR_1038,Research Scholar,BK_603,Calculus: Early Transcendentals,Science & Engineering,Science & Tech Annex,2025-10-21,2025-11-24,34,0,1,8,No Reservation,Oct 2025,2025
+TXN_20250614,USR_1089,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-10-22,2025-11-03,12,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250615,USR_1001,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-10-22,2025-11-07,16,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250616,USR_1030,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Engineering Branch,2025-10-22,2025-11-08,17,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250617,USR_1036,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-10-22,2025-11-02,11,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250618,USR_1076,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-10-23,2025-11-04,12,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250619,USR_1095,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-10-23,2025-10-29,6,0,0,8,No Reservation,Oct 2025,2025
+TXN_20250620,USR_1055,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-10-23,2025-11-03,11,1,1,2,No Reservation,Oct 2025,2025
+TXN_20250621,USR_1046,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-10-24,2025-11-09,16,0,2,2,No Reservation,Oct 2025,2025
+TXN_20250622,USR_1012,Student,BK_302,1984,Fiction & Literature,Management Library,2025-10-24,2025-11-08,15,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250623,USR_1063,Staff,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2025-10-24,2025-11-02,9,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250624,USR_1028,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Management Library,2025-10-24,2025-11-04,11,0,0,8,No Reservation,Oct 2025,2025
+TXN_20250625,USR_1031,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-10-25,2025-11-11,17,0,0,2,Reserved,Oct 2025,2025
+TXN_20250626,USR_1039,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-10-25,2025-11-09,15,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250627,USR_1027,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2025-10-25,2025-11-10,16,0,0,3,Reserved,Oct 2025,2025
+TXN_20250628,USR_1034,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2025-10-25,2025-11-12,18,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250629,USR_1078,Student,BK_601,University Physics with Modern Physics,Science & Engineering,Science & Tech Annex,2025-10-25,2025-11-03,9,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250630,USR_1012,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-10-25,2025-11-13,19,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250631,USR_1086,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-10-25,2025-11-02,8,1,0,2,No Reservation,Oct 2025,2025
+TXN_20250632,USR_1015,Staff,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-10-25,2025-11-05,11,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250633,USR_1086,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-10-26,2025-11-01,6,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250634,USR_1047,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Management Library,2025-10-27,2025-12-07,41,0,1,2,Reserved,Oct 2025,2025
+TXN_20250635,USR_1043,Faculty,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-10-27,2025-12-04,38,0,1,2,Reserved,Oct 2025,2025
+TXN_20250636,USR_1001,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-10-27,2025-11-10,14,1,2,1,No Reservation,Oct 2025,2025
+TXN_20250637,USR_1030,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-10-27,2025-11-03,7,0,0,0,Reserved,Oct 2025,2025
+TXN_20250638,USR_1047,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-10-27,2025-11-27,31,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250639,USR_1031,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-10-28,2025-11-11,14,0,3,8,No Reservation,Oct 2025,2025
+TXN_20250640,USR_1051,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Science & Tech Annex,2025-10-29,2025-11-12,14,0,0,8,No Reservation,Oct 2025,2025
+TXN_20250641,USR_1057,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-10-29,2025-11-13,15,0,0,5,No Reservation,Oct 2025,2025
+TXN_20250642,USR_1031,Research Scholar,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-10-29,2025-11-15,17,0,0,3,No Reservation,Oct 2025,2025
+TXN_20250643,USR_1047,Faculty,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-10-30,2025-11-17,18,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250644,USR_1029,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-10-30,2025-11-18,19,0,0,2,No Reservation,Oct 2025,2025
+TXN_20250645,USR_1070,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-10-30,2025-11-19,20,0,2,1,No Reservation,Oct 2025,2025
+TXN_20250646,USR_1027,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-10-30,2025-11-05,6,1,0,3,No Reservation,Oct 2025,2025
+TXN_20250647,USR_1043,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-10-30,2025-11-17,18,0,0,4,No Reservation,Oct 2025,2025
+TXN_20250648,USR_1031,Research Scholar,BK_301,To Kill a Mockingbird,Fiction & Literature,Engineering Branch,2025-10-30,2025-11-26,27,0,0,1,No Reservation,Oct 2025,2025
+TXN_20250649,USR_1030,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Management Library,2025-10-30,2025-11-06,7,0,0,2,Reserved,Oct 2025,2025
+TXN_20250650,USR_1038,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2025-10-30,2025-12-02,33,0,1,10,No Reservation,Oct 2025,2025
+TXN_20250651,USR_1063,Staff,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-10-31,2025-11-10,10,1,3,1,No Reservation,Oct 2025,2025
+TXN_20250652,USR_1038,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-10-31,2025-11-26,26,1,1,2,Reserved,Oct 2025,2025
+TXN_20250653,USR_1043,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-10-31,2025-12-04,34,1,3,1,No Reservation,Oct 2025,2025
+TXN_20250654,USR_1048,Student,BK_402,Steve Jobs,History & Biography,Management Library,2025-10-31,2025-11-06,6,0,0,0,Reserved,Oct 2025,2025
+TXN_20250655,USR_1063,Staff,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2025-10-31,2025-11-23,23,1,1,5,No Reservation,Oct 2025,2025
+TXN_20250656,USR_1036,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Main Campus Library,2025-11-01,2025-11-13,12,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250657,USR_1043,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-11-01,2025-11-21,20,1,0,4,No Reservation,Nov 2025,2025
+TXN_20250658,USR_1031,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-01,2025-11-21,20,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250659,USR_1028,Student,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2025-11-02,2025-11-10,8,0,1,4,No Reservation,Nov 2025,2025
+TXN_20250660,USR_1073,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-11-02,2025-12-04,32,0,0,0,Reserved,Nov 2025,2025
+TXN_20250661,USR_1087,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-11-02,2025-11-13,11,0,2,1,No Reservation,Nov 2025,2025
+TXN_20250662,USR_1039,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-11-02,2025-11-22,20,0,0,1,Reserved,Nov 2025,2025
+TXN_20250663,USR_1061,Student,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-11-02,2025-11-15,13,0,2,0,Reserved,Nov 2025,2025
+TXN_20250664,USR_1030,Student,BK_502,Zero to One,Business & Economics,Science & Tech Annex,2025-11-03,2025-11-09,6,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250665,USR_1051,Faculty,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-11-03,2025-12-09,36,0,0,0,Reserved,Nov 2025,2025
+TXN_20250666,USR_1001,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-11-03,2025-11-19,16,0,0,8,No Reservation,Nov 2025,2025
+TXN_20250667,USR_1048,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Engineering Branch,2025-11-03,2025-11-11,8,1,0,0,Reserved,Nov 2025,2025
+TXN_20250668,USR_1087,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-11-03,2025-11-15,12,0,1,8,No Reservation,Nov 2025,2025
+TXN_20250669,USR_1017,Student,BK_503,Atomic Habits,Business & Economics,Engineering Branch,2025-11-03,2025-11-21,18,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250670,USR_1078,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-11-03,2025-11-24,21,0,1,5,No Reservation,Nov 2025,2025
+TXN_20250671,USR_1035,Staff,BK_303,The Great Gatsby,Fiction & Literature,Management Library,2025-11-04,2025-11-17,13,0,1,3,No Reservation,Nov 2025,2025
+TXN_20250672,USR_1028,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-04,2025-11-24,20,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250673,USR_1036,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-11-04,2025-11-13,9,0,0,4,Reserved,Nov 2025,2025
+TXN_20250674,USR_1003,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2025-11-04,2025-11-22,18,0,1,8,No Reservation,Nov 2025,2025
+TXN_20250675,USR_1027,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2025-11-05,2025-11-13,8,0,0,3,Reserved,Nov 2025,2025
+TXN_20250676,USR_1065,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-11-05,2025-11-20,15,1,0,8,Reserved,Nov 2025,2025
+TXN_20250677,USR_1074,Student,BK_605,Signals and Systems,Science & Engineering,Engineering Branch,2025-11-06,2025-11-13,7,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250678,USR_1078,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Engineering Branch,2025-11-07,2025-11-20,13,1,1,3,No Reservation,Nov 2025,2025
+TXN_20250679,USR_1054,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-11-07,2025-11-22,15,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250680,USR_1072,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2025-11-07,2025-12-20,43,1,0,5,No Reservation,Nov 2025,2025
+TXN_20250681,USR_1018,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-11-07,2025-12-13,36,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250682,USR_1038,Research Scholar,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-11-08,2025-11-24,16,0,0,1,Reserved,Nov 2025,2025
+TXN_20250683,USR_1018,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-11-08,2025-12-20,42,0,0,0,Reserved,Nov 2025,2025
+TXN_20250684,USR_1031,Research Scholar,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2025-11-08,2025-12-07,29,0,1,4,No Reservation,Nov 2025,2025
+TXN_20250685,USR_1044,Research Scholar,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-11-09,2025-12-09,30,0,0,5,No Reservation,Nov 2025,2025
+TXN_20250686,USR_1074,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-11-09,2025-11-19,10,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250687,USR_1028,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-11-09,2025-11-23,14,0,0,10,Reserved,Nov 2025,2025
+TXN_20250688,USR_1069,Student,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-11-09,2025-11-30,21,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250689,USR_1086,Student,BK_302,1984,Fiction & Literature,Management Library,2025-11-09,2025-11-16,7,0,0,1,Reserved,Nov 2025,2025
+TXN_20250690,USR_1036,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-11-09,2025-11-22,13,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250691,USR_1030,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-11-09,2025-11-15,6,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250692,USR_1092,Faculty,BK_306,The Catcher in the Rye,Fiction & Literature,Management Library,2025-11-09,2025-12-21,42,0,1,3,No Reservation,Nov 2025,2025
+TXN_20250693,USR_1002,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-11-10,2025-11-26,16,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250694,USR_1047,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2025-11-10,2025-12-01,21,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250695,USR_1044,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-11-10,2025-11-29,19,0,1,3,No Reservation,Nov 2025,2025
+TXN_20250696,USR_1031,Research Scholar,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-11-10,2025-11-30,20,0,1,0,Reserved,Nov 2025,2025
+TXN_20250697,USR_1076,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-11-11,2025-11-20,9,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250698,USR_1039,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-11-11,2025-11-24,13,0,1,0,Reserved,Nov 2025,2025
+TXN_20250699,USR_1028,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-11-11,2025-11-25,14,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250700,USR_1079,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-11-11,2025-12-16,35,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250701,USR_1044,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-11,2025-12-01,20,0,0,1,Reserved,Nov 2025,2025
+TXN_20250702,USR_1076,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Engineering Branch,2025-11-11,2025-11-24,13,0,2,0,Reserved,Nov 2025,2025
+TXN_20250703,USR_1030,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-11-11,2025-11-30,19,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250704,USR_1038,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-11-11,2025-11-24,13,1,0,3,Reserved,Nov 2025,2025
+TXN_20250705,USR_1078,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-11-12,2025-11-23,11,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250706,USR_1031,Research Scholar,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2025-11-12,2025-11-25,13,0,0,4,Reserved,Nov 2025,2025
+TXN_20250707,USR_1080,Student,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-11-12,2025-11-18,6,0,0,0,Reserved,Nov 2025,2025
+TXN_20250708,USR_1027,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2025-11-12,2025-12-01,19,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250709,USR_1044,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-11-12,2025-11-22,10,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250710,USR_1086,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-11-12,2025-11-27,15,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250711,USR_1044,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-13,2025-12-06,23,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250712,USR_1031,Research Scholar,BK_605,Signals and Systems,Science & Engineering,Science & Tech Annex,2025-11-13,2025-12-06,23,0,2,0,Reserved,Nov 2025,2025
+TXN_20250713,USR_1086,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-11-14,2025-11-25,11,1,0,3,Reserved,Nov 2025,2025
+TXN_20250714,USR_1081,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-11-14,2025-12-11,27,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250715,USR_1012,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-14,2025-11-21,7,0,0,2,Reserved,Nov 2025,2025
+TXN_20250716,USR_1031,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Engineering Branch,2025-11-14,2025-12-10,26,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250717,USR_1074,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-11-15,2025-12-05,20,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250718,USR_1026,Staff,BK_301,To Kill a Mockingbird,Fiction & Literature,Science & Tech Annex,2025-11-15,2025-11-30,15,0,0,5,Reserved,Nov 2025,2025
+TXN_20250719,USR_1039,Student,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-11-15,2025-11-23,8,0,0,0,Reserved,Nov 2025,2025
+TXN_20250720,USR_1030,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Science & Tech Annex,2025-11-15,2025-11-22,7,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250721,USR_1079,Faculty,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-11-15,2025-12-07,22,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250722,USR_1074,Student,BK_402,Steve Jobs,History & Biography,Engineering Branch,2025-11-16,2025-11-27,11,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250723,USR_1080,Student,BK_501,The Intelligent Investor,Business & Economics,Science & Tech Annex,2025-11-16,2025-12-06,20,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250724,USR_1030,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-11-16,2025-12-01,15,0,1,0,Reserved,Nov 2025,2025
+TXN_20250725,USR_1095,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2025-11-16,2025-11-29,13,0,2,4,No Reservation,Nov 2025,2025
+TXN_20250726,USR_1093,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-11-17,2025-12-10,23,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250727,USR_1043,Faculty,BK_302,1984,Fiction & Literature,Science & Tech Annex,2025-11-17,2025-12-24,37,1,0,1,No Reservation,Nov 2025,2025
+TXN_20250728,USR_1040,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-11-18,2025-12-06,18,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250729,USR_1086,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Management Library,2025-11-18,2025-12-07,19,0,0,5,No Reservation,Nov 2025,2025
+TXN_20250730,USR_1080,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-11-18,2025-12-02,14,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250731,USR_1095,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-11-18,2025-12-08,20,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250732,USR_1086,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-11-19,2025-12-06,17,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250733,USR_1028,Student,BK_605,Signals and Systems,Science & Engineering,Engineering Branch,2025-11-19,2025-12-01,12,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250734,USR_1079,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2025-11-19,2025-12-23,34,1,3,1,No Reservation,Nov 2025,2025
+TXN_20250735,USR_1009,Faculty,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2025-11-19,2025-12-18,29,0,3,2,No Reservation,Nov 2025,2025
+TXN_20250736,USR_1061,Student,BK_204,Storytelling with Data,Data Science & Statistics,Science & Tech Annex,2025-11-19,2025-11-24,5,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250737,USR_1086,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-11-19,2025-11-29,10,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250738,USR_1086,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-11-20,2025-12-05,15,0,1,5,No Reservation,Nov 2025,2025
+TXN_20250739,USR_1080,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-11-20,2025-12-11,21,1,0,3,No Reservation,Nov 2025,2025
+TXN_20250740,USR_1031,Research Scholar,BK_602,Linear Algebra and Its Applications,Science & Engineering,Management Library,2025-11-20,2025-12-09,19,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250741,USR_1086,Student,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-11-21,2025-12-06,15,0,1,5,No Reservation,Nov 2025,2025
+TXN_20250742,USR_1063,Staff,BK_605,Signals and Systems,Science & Engineering,Engineering Branch,2025-11-21,2025-11-28,7,0,0,5,No Reservation,Nov 2025,2025
+TXN_20250743,USR_1073,Faculty,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-11-22,2025-12-19,27,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250744,USR_1038,Research Scholar,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-11-22,2025-12-20,28,1,1,5,No Reservation,Nov 2025,2025
+TXN_20250745,USR_1011,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-11-22,2025-12-01,9,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250746,USR_1031,Research Scholar,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Science & Tech Annex,2025-11-22,2025-12-16,24,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250747,USR_1038,Research Scholar,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Management Library,2025-11-22,2025-12-08,16,0,0,5,No Reservation,Nov 2025,2025
+TXN_20250748,USR_1074,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-11-23,2025-12-05,12,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250749,USR_1040,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-11-23,2025-12-20,27,0,0,8,No Reservation,Nov 2025,2025
+TXN_20250750,USR_1043,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-11-23,2025-12-21,28,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250751,USR_1086,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Engineering Branch,2025-11-24,2025-12-04,10,0,1,0,Reserved,Nov 2025,2025
+TXN_20250752,USR_1079,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-11-24,2025-12-21,27,0,2,1,No Reservation,Nov 2025,2025
+TXN_20250753,USR_1065,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-11-24,2025-12-09,15,0,0,0,Reserved,Nov 2025,2025
+TXN_20250754,USR_1063,Staff,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-11-25,2025-12-06,11,0,2,2,No Reservation,Nov 2025,2025
+TXN_20250755,USR_1065,Student,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2025-11-25,2025-11-30,5,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250756,USR_1047,Faculty,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2025-11-26,2025-12-29,33,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250757,USR_1055,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Science & Tech Annex,2025-11-26,2025-12-16,20,0,0,5,No Reservation,Nov 2025,2025
+TXN_20250758,USR_1044,Research Scholar,BK_603,Calculus: Early Transcendentals,Science & Engineering,Main Campus Library,2025-11-27,2025-12-11,14,0,0,4,No Reservation,Nov 2025,2025
+TXN_20250759,USR_1030,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-11-27,2025-12-07,10,0,0,1,No Reservation,Nov 2025,2025
+TXN_20250760,USR_1009,Faculty,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2025-11-27,2025-12-14,17,1,0,2,No Reservation,Nov 2025,2025
+TXN_20250761,USR_1089,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-11-27,2025-12-18,21,0,1,2,No Reservation,Nov 2025,2025
+TXN_20250762,USR_1038,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-11-27,2025-12-21,24,0,1,5,No Reservation,Nov 2025,2025
+TXN_20250763,USR_1079,Faculty,BK_405,Churchill: A Life,History & Biography,Management Library,2025-11-27,2026-01-09,43,0,0,3,No Reservation,Nov 2025,2025
+TXN_20250764,USR_1044,Research Scholar,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-11-28,2025-12-25,27,1,0,5,No Reservation,Nov 2025,2025
+TXN_20250765,USR_1028,Student,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2025-11-28,2025-12-09,11,0,0,0,Reserved,Nov 2025,2025
+TXN_20250766,USR_1065,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2025-11-28,2025-12-11,13,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250767,USR_1092,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-11-28,2025-12-20,22,0,2,0,Reserved,Nov 2025,2025
+TXN_20250768,USR_1086,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-11-28,2025-12-12,14,0,0,10,Reserved,Nov 2025,2025
+TXN_20250769,USR_1078,Student,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2025-11-28,2025-12-03,5,0,0,0,Reserved,Nov 2025,2025
+TXN_20250770,USR_1089,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-11-29,2025-12-06,7,0,0,8,No Reservation,Nov 2025,2025
+TXN_20250771,USR_1009,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-11-29,2026-01-09,41,0,1,1,Reserved,Nov 2025,2025
+TXN_20250772,USR_1035,Staff,BK_101,Deep Learning with Python,Computer Science & AI,Engineering Branch,2025-11-29,2025-12-20,21,1,1,4,No Reservation,Nov 2025,2025
+TXN_20250773,USR_1043,Faculty,BK_603,Calculus: Early Transcendentals,Science & Engineering,Engineering Branch,2025-11-29,2025-12-17,18,0,1,4,No Reservation,Nov 2025,2025
+TXN_20250774,USR_1079,Faculty,BK_304,Pride and Prejudice,Fiction & Literature,Science & Tech Annex,2025-11-30,2025-12-22,22,1,1,1,No Reservation,Nov 2025,2025
+TXN_20250775,USR_1043,Faculty,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2025-11-30,2026-01-04,35,0,0,2,No Reservation,Nov 2025,2025
+TXN_20250776,USR_1069,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2025-12-02,2025-12-18,16,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250777,USR_1070,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-12-02,2025-12-25,23,0,0,4,No Reservation,Dec 2025,2025
+TXN_20250778,USR_1014,Faculty,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2025-12-02,2026-01-06,35,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250779,USR_1047,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2025-12-03,2025-12-23,20,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250780,USR_1039,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2025-12-03,2025-12-12,9,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250781,USR_1076,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2025-12-04,2025-12-22,18,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250782,USR_1061,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-12-05,2025-12-25,20,0,0,1,Reserved,Dec 2025,2025
+TXN_20250783,USR_1009,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2025-12-07,2026-01-03,27,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250784,USR_1047,Faculty,BK_402,Steve Jobs,History & Biography,Science & Tech Annex,2025-12-07,2025-12-28,21,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250785,USR_1063,Staff,BK_402,Steve Jobs,History & Biography,Science & Tech Annex,2025-12-07,2025-12-16,9,0,0,5,No Reservation,Dec 2025,2025
+TXN_20250786,USR_1016,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-12-09,2025-12-19,10,0,0,5,Reserved,Dec 2025,2025
+TXN_20250787,USR_1063,Staff,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Engineering Branch,2025-12-10,2025-12-18,8,0,0,10,No Reservation,Dec 2025,2025
+TXN_20250788,USR_1048,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Management Library,2025-12-11,2025-12-19,8,0,1,1,No Reservation,Dec 2025,2025
+TXN_20250789,USR_1063,Staff,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-12-12,2026-01-06,25,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250790,USR_1052,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2025-12-12,2025-12-17,5,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250791,USR_1048,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-12-13,2025-12-29,16,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250792,USR_1063,Staff,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-12-13,2026-01-06,24,0,0,4,No Reservation,Dec 2025,2025
+TXN_20250793,USR_1030,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2025-12-13,2026-01-02,20,0,0,1,Reserved,Dec 2025,2025
+TXN_20250794,USR_1031,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2025-12-13,2025-12-30,17,0,0,3,No Reservation,Dec 2025,2025
+TXN_20250795,USR_1051,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2025-12-13,2026-01-23,41,1,0,4,No Reservation,Dec 2025,2025
+TXN_20250796,USR_1017,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2025-12-14,2025-12-20,6,0,2,0,Reserved,Dec 2025,2025
+TXN_20250797,USR_1073,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2025-12-14,2026-01-01,18,0,1,4,No Reservation,Dec 2025,2025
+TXN_20250798,USR_1047,Faculty,BK_502,Zero to One,Business & Economics,Management Library,2025-12-14,2026-01-27,44,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250799,USR_1031,Research Scholar,BK_305,Dune,Fiction & Literature,Main Campus Library,2025-12-14,2026-01-02,19,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250800,USR_1033,Student,BK_402,Steve Jobs,History & Biography,Main Campus Library,2025-12-15,2025-12-31,16,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250801,USR_1002,Student,BK_402,Steve Jobs,History & Biography,Engineering Branch,2025-12-16,2025-12-23,7,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250802,USR_1047,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-12-16,2026-01-09,24,0,2,0,Reserved,Dec 2025,2025
+TXN_20250803,USR_1086,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2025-12-17,2025-12-29,12,0,0,0,Reserved,Dec 2025,2025
+TXN_20250804,USR_1027,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-12-17,2026-01-05,19,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250805,USR_1057,Student,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2025-12-17,2025-12-31,14,0,3,3,No Reservation,Dec 2025,2025
+TXN_20250806,USR_1031,Research Scholar,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2025-12-17,2026-01-02,16,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250807,USR_1080,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2025-12-21,2026-01-11,21,0,1,2,No Reservation,Dec 2025,2025
+TXN_20250808,USR_1035,Staff,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2025-12-22,2026-01-08,17,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250809,USR_1018,Faculty,BK_305,Dune,Fiction & Literature,Science & Tech Annex,2025-12-23,2026-01-22,30,0,0,1,Reserved,Dec 2025,2025
+TXN_20250810,USR_1030,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-12-24,2026-01-10,17,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250811,USR_1057,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2025-12-24,2025-12-30,6,1,0,3,No Reservation,Dec 2025,2025
+TXN_20250812,USR_1030,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2025-12-24,2026-01-11,18,1,0,5,No Reservation,Dec 2025,2025
+TXN_20250813,USR_1080,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2025-12-25,2025-12-31,6,0,0,3,Reserved,Dec 2025,2025
+TXN_20250814,USR_1080,Student,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2025-12-27,2026-01-13,17,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250815,USR_1012,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2025-12-28,2026-01-03,6,0,0,3,No Reservation,Dec 2025,2025
+TXN_20250816,USR_1048,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2025-12-28,2026-01-13,16,0,0,2,No Reservation,Dec 2025,2025
+TXN_20250817,USR_1063,Staff,BK_404,The Silk Roads: A New History of the World,History & Biography,Management Library,2025-12-29,2026-01-17,19,0,0,2,Reserved,Dec 2025,2025
+TXN_20250818,USR_1012,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2025-12-30,2026-01-16,17,0,0,4,No Reservation,Dec 2025,2025
+TXN_20250819,USR_1011,Student,BK_305,Dune,Fiction & Literature,Engineering Branch,2025-12-31,2026-01-21,21,0,3,1,Reserved,Dec 2025,2025
+TXN_20250820,USR_1080,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2025-12-31,2026-01-11,11,0,0,1,No Reservation,Dec 2025,2025
+TXN_20250821,USR_1063,Staff,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2026-01-01,2026-01-11,10,0,0,8,No Reservation,Jan 2026,2026
+TXN_20250822,USR_1074,Student,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2026-01-01,2026-01-07,6,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250823,USR_1024,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Science & Tech Annex,2026-01-02,2026-01-15,13,1,2,4,No Reservation,Jan 2026,2026
+TXN_20250824,USR_1009,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-01-02,2026-01-28,26,0,1,8,No Reservation,Jan 2026,2026
+TXN_20250825,USR_1031,Research Scholar,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2026-01-02,2026-01-17,15,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250826,USR_1030,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2026-01-04,2026-01-15,11,0,0,10,No Reservation,Jan 2026,2026
+TXN_20250827,USR_1086,Student,BK_502,Zero to One,Business & Economics,Science & Tech Annex,2026-01-05,2026-01-19,14,0,0,3,No Reservation,Jan 2026,2026
+TXN_20250828,USR_1048,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2026-01-06,2026-01-11,5,0,0,0,Reserved,Jan 2026,2026
+TXN_20250829,USR_1074,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2026-01-07,2026-01-15,8,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250830,USR_1038,Research Scholar,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2026-01-08,2026-01-23,15,1,0,2,No Reservation,Jan 2026,2026
+TXN_20250831,USR_1001,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2026-01-09,2026-01-28,19,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250832,USR_1001,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-01-10,2026-01-24,14,0,0,3,No Reservation,Jan 2026,2026
+TXN_20250833,USR_1020,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2026-01-10,2026-01-15,5,0,2,3,No Reservation,Jan 2026,2026
+TXN_20250834,USR_1080,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2026-01-11,2026-01-16,5,0,0,0,Reserved,Jan 2026,2026
+TXN_20250835,USR_1012,Student,BK_304,Pride and Prejudice,Fiction & Literature,Science & Tech Annex,2026-01-11,2026-01-30,19,0,0,0,Reserved,Jan 2026,2026
+TXN_20250836,USR_1030,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2026-01-12,2026-01-28,16,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250837,USR_1086,Student,BK_503,Atomic Habits,Business & Economics,Management Library,2026-01-12,2026-01-18,6,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250838,USR_1036,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-01-13,2026-01-30,17,0,0,5,No Reservation,Jan 2026,2026
+TXN_20250839,USR_1052,Student,BK_605,Signals and Systems,Science & Engineering,Main Campus Library,2026-01-14,2026-01-25,11,1,0,3,Reserved,Jan 2026,2026
+TXN_20250840,USR_1038,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2026-01-14,2026-02-02,19,0,0,4,No Reservation,Jan 2026,2026
+TXN_20250841,USR_1035,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-01-15,2026-02-10,26,0,0,0,Reserved,Jan 2026,2026
+TXN_20250842,USR_1080,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2026-01-15,2026-02-05,21,0,0,4,No Reservation,Jan 2026,2026
+TXN_20250843,USR_1081,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Science & Tech Annex,2026-01-15,2026-02-05,21,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250844,USR_1031,Research Scholar,BK_503,Atomic Habits,Business & Economics,Management Library,2026-01-15,2026-02-14,30,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250845,USR_1044,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2026-01-16,2026-01-26,10,0,1,3,No Reservation,Jan 2026,2026
+TXN_20250846,USR_1088,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2026-01-16,2026-01-28,12,0,0,2,Reserved,Jan 2026,2026
+TXN_20250847,USR_1069,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2026-01-17,2026-01-23,6,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250848,USR_1063,Staff,BK_201,Python for Data Analysis,Data Science & Statistics,Main Campus Library,2026-01-17,2026-02-11,25,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250849,USR_1027,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-01-17,2026-01-29,12,0,0,5,No Reservation,Jan 2026,2026
+TXN_20250850,USR_1028,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2026-01-18,2026-02-02,15,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250851,USR_1054,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-01-20,2026-02-09,20,0,0,10,No Reservation,Jan 2026,2026
+TXN_20250852,USR_1065,Student,BK_201,Python for Data Analysis,Data Science & Statistics,Engineering Branch,2026-01-22,2026-02-03,12,0,0,2,Reserved,Jan 2026,2026
+TXN_20250853,USR_1055,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2026-01-23,2026-01-31,8,0,3,1,No Reservation,Jan 2026,2026
+TXN_20250854,USR_1044,Research Scholar,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-01-24,2026-02-18,25,0,0,2,Reserved,Jan 2026,2026
+TXN_20250855,USR_1063,Staff,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2026-01-24,2026-02-08,15,0,1,3,Reserved,Jan 2026,2026
+TXN_20250856,USR_1031,Research Scholar,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2026-01-25,2026-02-18,24,0,0,5,No Reservation,Jan 2026,2026
+TXN_20250857,USR_1087,Student,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2026-01-25,2026-02-12,18,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250858,USR_1048,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2026-01-25,2026-02-05,11,0,0,10,No Reservation,Jan 2026,2026
+TXN_20250859,USR_1063,Staff,BK_503,Atomic Habits,Business & Economics,Main Campus Library,2026-01-26,2026-02-11,16,0,0,5,No Reservation,Jan 2026,2026
+TXN_20250860,USR_1065,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2026-01-26,2026-02-13,18,0,1,1,No Reservation,Jan 2026,2026
+TXN_20250861,USR_1028,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-01-26,2026-02-15,20,0,0,4,No Reservation,Jan 2026,2026
+TXN_20250862,USR_1073,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Management Library,2026-01-27,2026-02-25,29,0,0,1,No Reservation,Jan 2026,2026
+TXN_20250863,USR_1027,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-01-27,2026-02-14,18,1,0,2,No Reservation,Jan 2026,2026
+TXN_20250864,USR_1043,Faculty,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2026-01-29,2026-03-01,31,0,1,3,No Reservation,Jan 2026,2026
+TXN_20250865,USR_1024,Student,BK_101,Deep Learning with Python,Computer Science & AI,Management Library,2026-01-29,2026-02-16,18,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250866,USR_1043,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-01-30,2026-03-07,36,0,0,2,No Reservation,Jan 2026,2026
+TXN_20250867,USR_1048,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Science & Tech Annex,2026-01-30,2026-02-07,8,0,0,1,Reserved,Jan 2026,2026
+TXN_20250868,USR_1078,Student,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2026-02-01,2026-02-22,21,0,0,8,No Reservation,Feb 2026,2026
+TXN_20250869,USR_1048,Student,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2026-02-01,2026-02-10,9,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250870,USR_1079,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2026-02-02,2026-02-19,17,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250871,USR_1038,Research Scholar,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2026-02-02,2026-02-26,24,0,0,5,Reserved,Feb 2026,2026
+TXN_20250872,USR_1024,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2026-02-02,2026-02-10,8,1,0,2,No Reservation,Feb 2026,2026
+TXN_20250873,USR_1069,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-02-03,2026-02-10,7,0,0,2,Reserved,Feb 2026,2026
+TXN_20250874,USR_1056,Student,BK_503,Atomic Habits,Business & Economics,Science & Tech Annex,2026-02-04,2026-02-23,19,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250875,USR_1011,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2026-02-04,2026-02-09,5,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250876,USR_1038,Research Scholar,BK_605,Signals and Systems,Science & Engineering,Main Campus Library,2026-02-04,2026-02-23,19,0,1,4,Reserved,Feb 2026,2026
+TXN_20250877,USR_1035,Staff,BK_306,The Catcher in the Rye,Fiction & Literature,Science & Tech Annex,2026-02-04,2026-03-03,27,0,0,3,Reserved,Feb 2026,2026
+TXN_20250878,USR_1024,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-02-04,2026-02-11,7,0,0,0,Reserved,Feb 2026,2026
+TXN_20250879,USR_1047,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Management Library,2026-02-05,2026-03-16,39,0,1,3,No Reservation,Feb 2026,2026
+TXN_20250880,USR_1024,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Engineering Branch,2026-02-05,2026-02-19,14,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250881,USR_1038,Research Scholar,BK_402,Steve Jobs,History & Biography,Engineering Branch,2026-02-05,2026-02-17,12,0,0,3,Reserved,Feb 2026,2026
+TXN_20250882,USR_1063,Staff,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-02-06,2026-02-19,13,0,0,4,No Reservation,Feb 2026,2026
+TXN_20250883,USR_1065,Student,BK_106,Operating System Concepts,Computer Science & AI,Science & Tech Annex,2026-02-06,2026-02-21,15,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250884,USR_1063,Staff,BK_602,Linear Algebra and Its Applications,Science & Engineering,Engineering Branch,2026-02-06,2026-02-17,11,1,0,2,No Reservation,Feb 2026,2026
+TXN_20250885,USR_1086,Student,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2026-02-07,2026-02-23,16,0,1,1,No Reservation,Feb 2026,2026
+TXN_20250886,USR_1027,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2026-02-07,2026-02-16,9,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250887,USR_1033,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2026-02-07,2026-02-14,7,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250888,USR_1020,Student,BK_604,Microelectronic Circuits,Science & Engineering,Science & Tech Annex,2026-02-07,2026-02-13,6,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250889,USR_1087,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2026-02-08,2026-02-14,6,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250890,USR_1045,Student,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-02-09,2026-02-16,7,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250891,USR_1062,Research Scholar,BK_405,Churchill: A Life,History & Biography,Engineering Branch,2026-02-09,2026-03-10,29,0,2,3,No Reservation,Feb 2026,2026
+TXN_20250892,USR_1032,Research Scholar,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2026-02-09,2026-03-08,27,0,3,2,No Reservation,Feb 2026,2026
+TXN_20250893,USR_1001,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2026-02-09,2026-02-22,13,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250894,USR_1009,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2026-02-09,2026-03-06,25,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250895,USR_1086,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2026-02-10,2026-03-03,21,0,1,0,Reserved,Feb 2026,2026
+TXN_20250896,USR_1086,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2026-02-10,2026-02-18,8,0,2,2,No Reservation,Feb 2026,2026
+TXN_20250897,USR_1031,Research Scholar,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2026-02-10,2026-03-12,30,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250898,USR_1063,Staff,BK_601,University Physics with Modern Physics,Science & Engineering,Main Campus Library,2026-02-10,2026-02-28,18,0,0,2,Reserved,Feb 2026,2026
+TXN_20250899,USR_1063,Staff,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2026-02-10,2026-02-17,7,1,0,3,No Reservation,Feb 2026,2026
+TXN_20250900,USR_1054,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-02-11,2026-03-01,18,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250901,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-02-11,2026-02-23,12,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250902,USR_1045,Student,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2026-02-12,2026-02-27,15,0,0,0,Reserved,Feb 2026,2026
+TXN_20250903,USR_1009,Faculty,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2026-02-12,2026-03-09,25,0,2,3,No Reservation,Feb 2026,2026
+TXN_20250904,USR_1038,Research Scholar,BK_403,"Guns, Germs, and Steel",History & Biography,Science & Tech Annex,2026-02-12,2026-03-05,21,1,0,2,Reserved,Feb 2026,2026
+TXN_20250905,USR_1087,Student,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Science & Tech Annex,2026-02-12,2026-02-23,11,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250906,USR_1011,Student,BK_405,Churchill: A Life,History & Biography,Science & Tech Annex,2026-02-12,2026-02-23,11,0,3,1,No Reservation,Feb 2026,2026
+TXN_20250907,USR_1001,Student,BK_101,Deep Learning with Python,Computer Science & AI,Management Library,2026-02-13,2026-02-26,13,0,1,5,No Reservation,Feb 2026,2026
+TXN_20250908,USR_1043,Faculty,BK_502,Zero to One,Business & Economics,Main Campus Library,2026-02-13,2026-03-19,34,1,0,5,No Reservation,Feb 2026,2026
+TXN_20250909,USR_1044,Research Scholar,BK_604,Microelectronic Circuits,Science & Engineering,Main Campus Library,2026-02-13,2026-03-15,30,0,2,2,No Reservation,Feb 2026,2026
+TXN_20250910,USR_1043,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Main Campus Library,2026-02-14,2026-03-28,42,0,1,2,No Reservation,Feb 2026,2026
+TXN_20250911,USR_1065,Student,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2026-02-14,2026-02-23,9,0,0,2,Reserved,Feb 2026,2026
+TXN_20250912,USR_1054,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2026-02-14,2026-03-07,21,0,1,2,No Reservation,Feb 2026,2026
+TXN_20250913,USR_1063,Staff,BK_304,Pride and Prejudice,Fiction & Literature,Engineering Branch,2026-02-14,2026-02-21,7,0,0,3,Reserved,Feb 2026,2026
+TXN_20250914,USR_1063,Staff,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Science & Tech Annex,2026-02-14,2026-02-25,11,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250915,USR_1044,Research Scholar,BK_404,The Silk Roads: A New History of the World,History & Biography,Engineering Branch,2026-02-14,2026-03-09,23,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250916,USR_1047,Faculty,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2026-02-14,2026-03-21,35,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250917,USR_1043,Faculty,BK_503,Atomic Habits,Business & Economics,Science & Tech Annex,2026-02-14,2026-03-30,44,0,0,4,No Reservation,Feb 2026,2026
+TXN_20250918,USR_1030,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Science & Tech Annex,2026-02-15,2026-03-03,16,0,3,1,No Reservation,Feb 2026,2026
+TXN_20250919,USR_1044,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2026-02-15,2026-02-28,13,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250920,USR_1051,Faculty,BK_401,Sapiens: A Brief History of Humankind,History & Biography,Main Campus Library,2026-02-15,2026-03-21,34,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250921,USR_1009,Faculty,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2026-02-15,2026-03-04,17,0,1,2,No Reservation,Feb 2026,2026
+TXN_20250922,USR_1043,Faculty,BK_202,Practical Statistics for Data Scientists,Data Science & Statistics,Main Campus Library,2026-02-15,2026-03-27,40,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250923,USR_1030,Student,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2026-02-16,2026-03-01,13,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250924,USR_1074,Student,BK_106,Operating System Concepts,Computer Science & AI,Engineering Branch,2026-02-16,2026-03-08,20,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250925,USR_1086,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-02-16,2026-03-07,19,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250926,USR_1080,Student,BK_302,1984,Fiction & Literature,Main Campus Library,2026-02-19,2026-03-06,15,0,1,10,No Reservation,Feb 2026,2026
+TXN_20250927,USR_1093,Faculty,BK_404,The Silk Roads: A New History of the World,History & Biography,Science & Tech Annex,2026-02-20,2026-03-29,37,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250928,USR_1018,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2026-02-20,2026-03-10,18,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250929,USR_1030,Student,BK_504,"Thinking, Fast and Slow",Business & Economics,Main Campus Library,2026-02-20,2026-03-02,10,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250930,USR_1024,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2026-02-20,2026-03-10,18,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250931,USR_1030,Student,BK_604,Microelectronic Circuits,Science & Engineering,Engineering Branch,2026-02-20,2026-03-13,21,1,0,4,No Reservation,Feb 2026,2026
+TXN_20250932,USR_1081,Faculty,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2026-02-20,2026-04-05,44,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250933,USR_1070,Faculty,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Science & Tech Annex,2026-02-20,2026-03-25,33,0,1,1,No Reservation,Feb 2026,2026
+TXN_20250934,USR_1024,Student,BK_404,The Silk Roads: A New History of the World,History & Biography,Main Campus Library,2026-02-21,2026-03-07,14,0,0,4,No Reservation,Feb 2026,2026
+TXN_20250935,USR_1095,Student,BK_501,The Intelligent Investor,Business & Economics,Main Campus Library,2026-02-21,2026-02-28,7,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250936,USR_1063,Staff,BK_602,Linear Algebra and Its Applications,Science & Engineering,Engineering Branch,2026-02-21,2026-03-03,10,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250937,USR_1009,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2026-02-21,2026-03-29,36,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250938,USR_1081,Faculty,BK_502,Zero to One,Business & Economics,Main Campus Library,2026-02-22,2026-03-22,28,0,0,4,No Reservation,Feb 2026,2026
+TXN_20250939,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Management Library,2026-02-22,2026-03-04,10,0,0,0,Reserved,Feb 2026,2026
+TXN_20250940,USR_1063,Staff,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Main Campus Library,2026-02-22,2026-03-04,10,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250941,USR_1044,Research Scholar,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Management Library,2026-02-23,2026-03-12,17,0,0,0,Reserved,Feb 2026,2026
+TXN_20250942,USR_1036,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Management Library,2026-02-23,2026-03-06,11,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250943,USR_1063,Staff,BK_103,Clean Code: A Handbook of Agile Software,Computer Science & AI,Engineering Branch,2026-02-24,2026-03-18,22,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250944,USR_1030,Student,BK_603,Calculus: Early Transcendentals,Science & Engineering,Main Campus Library,2026-02-24,2026-03-10,14,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250945,USR_1030,Student,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2026-02-24,2026-03-03,7,0,1,3,No Reservation,Feb 2026,2026
+TXN_20250946,USR_1030,Student,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Main Campus Library,2026-02-24,2026-03-16,20,0,0,0,Reserved,Feb 2026,2026
+TXN_20250947,USR_1074,Student,BK_604,Microelectronic Circuits,Science & Engineering,Management Library,2026-02-24,2026-03-09,13,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250948,USR_1031,Research Scholar,BK_106,Operating System Concepts,Computer Science & AI,Management Library,2026-02-24,2026-03-16,20,0,0,2,Reserved,Feb 2026,2026
+TXN_20250949,USR_1065,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2026-02-24,2026-03-15,19,0,1,5,No Reservation,Feb 2026,2026
+TXN_20250950,USR_1036,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2026-02-25,2026-03-07,10,0,0,8,No Reservation,Feb 2026,2026
+TXN_20250951,USR_1037,Research Scholar,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2026-02-25,2026-03-08,11,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250952,USR_1039,Student,BK_502,Zero to One,Business & Economics,Main Campus Library,2026-02-25,2026-03-13,16,0,1,4,No Reservation,Feb 2026,2026
+TXN_20250953,USR_1030,Student,BK_403,"Guns, Germs, and Steel",History & Biography,Main Campus Library,2026-02-25,2026-03-14,17,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250954,USR_1047,Faculty,BK_105,Introduction to Algorithms (CLRS),Computer Science & AI,Main Campus Library,2026-02-26,2026-04-11,44,1,0,2,No Reservation,Feb 2026,2026
+TXN_20250955,USR_1063,Staff,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Main Campus Library,2026-02-26,2026-03-22,24,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250956,USR_1012,Student,BK_603,Calculus: Early Transcendentals,Science & Engineering,Main Campus Library,2026-02-26,2026-03-13,15,0,2,3,Reserved,Feb 2026,2026
+TXN_20250957,USR_1009,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2026-02-27,2026-03-31,32,0,0,5,No Reservation,Feb 2026,2026
+TXN_20250958,USR_1081,Faculty,BK_205,Pattern Recognition and Machine Learning,Data Science & Statistics,Engineering Branch,2026-02-27,2026-04-03,35,1,0,3,Reserved,Feb 2026,2026
+TXN_20250959,USR_1014,Faculty,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2026-02-27,2026-04-03,35,0,0,2,No Reservation,Feb 2026,2026
+TXN_20250960,USR_1009,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Management Library,2026-02-27,2026-03-30,31,0,1,1,No Reservation,Feb 2026,2026
+TXN_20250961,USR_1051,Faculty,BK_204,Storytelling with Data,Data Science & Statistics,Main Campus Library,2026-02-27,2026-04-10,42,0,0,1,No Reservation,Feb 2026,2026
+TXN_20250962,USR_1089,Student,BK_303,The Great Gatsby,Fiction & Literature,Main Campus Library,2026-02-27,2026-03-10,11,0,0,1,Reserved,Feb 2026,2026
+TXN_20250963,USR_1030,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2026-02-28,2026-03-20,20,0,0,1,Reserved,Feb 2026,2026
+TXN_20250964,USR_1013,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-02-28,2026-03-17,17,0,0,3,No Reservation,Feb 2026,2026
+TXN_20250965,USR_1031,Research Scholar,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Management Library,2026-02-28,2026-03-10,10,0,1,3,No Reservation,Feb 2026,2026
+TXN_20250966,USR_1063,Staff,BK_403,"Guns, Germs, and Steel",History & Biography,Engineering Branch,2026-02-28,2026-03-27,27,1,0,2,No Reservation,Feb 2026,2026
+TXN_20250967,USR_1009,Faculty,BK_203,Hands-On Machine Learning,Data Science & Statistics,Management Library,2026-02-28,2026-04-04,35,0,0,0,Reserved,Feb 2026,2026
+TXN_20250968,USR_1030,Student,BK_405,Churchill: A Life,History & Biography,Main Campus Library,2026-03-03,2026-03-12,9,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250969,USR_1080,Student,BK_301,To Kill a Mockingbird,Fiction & Literature,Main Campus Library,2026-03-03,2026-03-08,5,0,0,2,No Reservation,Mar 2026,2026
+TXN_20250970,USR_1039,Student,BK_101,Deep Learning with Python,Computer Science & AI,Main Campus Library,2026-03-03,2026-03-12,9,1,1,1,No Reservation,Mar 2026,2026
+TXN_20250971,USR_1086,Student,BK_505,Principles for Navigating Big Debt Crises,Business & Economics,Main Campus Library,2026-03-04,2026-03-25,21,0,0,3,Reserved,Mar 2026,2026
+TXN_20250972,USR_1078,Student,BK_204,Storytelling with Data,Data Science & Statistics,Management Library,2026-03-04,2026-03-22,18,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250973,USR_1027,Student,BK_304,Pride and Prejudice,Fiction & Literature,Main Campus Library,2026-03-04,2026-03-16,12,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250974,USR_1051,Faculty,BK_503,Atomic Habits,Business & Economics,Management Library,2026-03-04,2026-03-27,23,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250975,USR_1004,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-03-04,2026-03-18,14,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250976,USR_1080,Student,BK_101,Deep Learning with Python,Computer Science & AI,Science & Tech Annex,2026-03-05,2026-03-22,17,0,0,0,Reserved,Mar 2026,2026
+TXN_20250977,USR_1043,Faculty,BK_402,Steve Jobs,History & Biography,Science & Tech Annex,2026-03-10,2026-04-10,31,0,0,3,No Reservation,Mar 2026,2026
+TXN_20250978,USR_1089,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-03-11,2026-03-16,5,0,0,3,No Reservation,Mar 2026,2026
+TXN_20250979,USR_1036,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2026-03-11,2026-03-20,9,0,0,2,No Reservation,Mar 2026,2026
+TXN_20250980,USR_1038,Research Scholar,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-03-11,2026-03-23,12,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250981,USR_1014,Faculty,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2026-03-11,2026-03-25,14,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250982,USR_1063,Staff,BK_504,"Thinking, Fast and Slow",Business & Economics,Engineering Branch,2026-03-13,2026-04-08,26,0,0,2,No Reservation,Mar 2026,2026
+TXN_20250983,USR_1063,Staff,BK_201,Python for Data Analysis,Data Science & Statistics,Management Library,2026-03-17,2026-04-12,26,0,2,2,No Reservation,Mar 2026,2026
+TXN_20250984,USR_1028,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2026-03-20,2026-03-30,10,0,0,0,Reserved,Mar 2026,2026
+TXN_20250985,USR_1076,Student,BK_101,Deep Learning with Python,Computer Science & AI,Management Library,2026-03-20,2026-04-03,14,0,0,5,No Reservation,Mar 2026,2026
+TXN_20250986,USR_1028,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Engineering Branch,2026-03-20,2026-04-06,17,0,3,3,No Reservation,Mar 2026,2026
+TXN_20250987,USR_1028,Student,BK_302,1984,Fiction & Literature,Engineering Branch,2026-03-21,2026-03-30,9,0,0,4,No Reservation,Mar 2026,2026
+TXN_20250988,USR_1065,Student,BK_602,Linear Algebra and Its Applications,Science & Engineering,Management Library,2026-03-22,2026-04-10,19,0,0,1,No Reservation,Mar 2026,2026
+TXN_20250989,USR_1014,Faculty,BK_106,Operating System Concepts,Computer Science & AI,Main Campus Library,2026-03-23,2026-05-04,42,0,0,0,Reserved,Mar 2026,2026
+TXN_20250990,USR_1028,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Science & Tech Annex,2026-03-23,2026-04-12,20,0,1,0,Reserved,Mar 2026,2026
+TXN_20250991,USR_1031,Research Scholar,BK_306,The Catcher in the Rye,Fiction & Literature,Main Campus Library,2026-03-24,2026-04-17,24,0,1,5,No Reservation,Mar 2026,2026
+TXN_20250992,USR_1001,Student,BK_102,Designing Data-Intensive Applications,Computer Science & AI,Engineering Branch,2026-03-24,2026-04-11,18,0,0,2,No Reservation,Mar 2026,2026
+TXN_20250993,USR_1001,Student,BK_104,Artificial Intelligence: A Modern Approach,Computer Science & AI,Engineering Branch,2026-03-25,2026-04-01,7,0,0,2,No Reservation,Mar 2026,2026
+TXN_20250994,USR_1031,Research Scholar,BK_302,1984,Fiction & Literature,Science & Tech Annex,2026-03-27,2026-04-14,18,0,0,0,Reserved,Mar 2026,2026
+TXN_20250995,USR_1028,Student,BK_305,Dune,Fiction & Literature,Main Campus Library,2026-03-27,2026-04-05,9,0,0,1,Reserved,Mar 2026,2026
+TXN_20250996,USR_1039,Student,BK_203,Hands-On Machine Learning,Data Science & Statistics,Main Campus Library,2026-03-27,2026-04-01,5,0,0,0,Reserved,Mar 2026,2026
+TXN_20250997,USR_1038,Research Scholar,BK_302,1984,Fiction & Literature,Main Campus Library,2026-03-27,2026-04-12,16,0,1,3,No Reservation,Mar 2026,2026
+TXN_20250998,USR_1035,Staff,BK_203,Hands-On Machine Learning,Data Science & Statistics,Science & Tech Annex,2026-03-28,2026-04-20,23,0,1,2,No Reservation,Mar 2026,2026
+TXN_20250999,USR_1017,Student,BK_204,Storytelling with Data,Data Science & Statistics,Engineering Branch,2026-03-28,2026-04-02,5,0,0,2,No Reservation,Mar 2026,2026
+TXN_20251000,USR_1054,Student,BK_306,The Catcher in the Rye,Fiction & Literature,Engineering Branch,2026-03-30,2026-04-11,12,0,0,3,No Reservation,Mar 2026,2026
